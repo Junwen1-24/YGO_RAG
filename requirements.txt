@@ -1,0 +1,11 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pymupdf>=1.24.0
+faiss-cpu>=1.8.0
+openai>=1.0.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+langchain-text-splitters>=0.2.0
+streamlit>=1.32.0
+matplotlib>=3.7.0

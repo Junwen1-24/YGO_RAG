@@ -1,0 +1,25 @@
+# Secrets — never commit API keys
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.so
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local vector indexes (rebuild with preprocess_to_faiss.py)
+faiss_index/
+faiss_rules_index/
+faiss_cards_index/
+
+# Large local datasets (uncomment if card.json is huge and should stay local)
+# data/card.json

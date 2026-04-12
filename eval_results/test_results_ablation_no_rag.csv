@@ -1,0 +1,578 @@
+ID,Tags,Question,Official_Answer,generated_answer,retrieved_contexts,processing_time,status,error
+12527,Damage Step|Flip,"A ""Gladiator Beast Murmillo"" attacked a face-down Defense Position ""Man-Eater Bug"", and damage calculation confirmed that it was destroyed by the battle.
+
+Then, if the Trigger Effect of ""Man-Eater Bug"" is negated and destroyed by ""Gladiator Beast War Chariot"", at the end of the Battle Phase, can the『At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 ""Gladiator Beast"" monster from your Deck, except """"Gladiator Beast Murmillo""""』effect of ""Gladiator Beast Murmillo"" be activated?","In the situation of the question, the ""Man-Eater Bug"" that was confirmed to be destroyed by the battle was destroyed and sent to the Graveyard by the effect of ""Gladiator Beast War Chariot"", but the fact that ""Gladiator Beast Murmillo"" battled that ""Man-Eater Bug"" doesn't change.
+
+Therefore, the『At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 ""Gladiator Beast"" monster from your Deck, except """"Gladiator Beast Murmillo""""』effect can be activated.","In this scenario, we need to analyze the sequence of events and the effects involved to determine if ""Gladiator Beast Murmillo"" can activate its effect at the end of the Battle Phase.
+
+1. **Battle and Damage Calculation**: ""Gladiator Beast Murmillo"" attacks a face-down ""Man-Eater Bug."" During damage calculation, ""Man-Eater Bug"" is destroyed due to the battle. This is a normal occurrence, and ""Man-Eater Bug"" is sent to the Graveyard.
+
+2. **Trigger Effect of ""Man-Eater Bug""**: After being destroyed, ""Man-Eater Bug"" has a Trigger Effect that allows it to destroy a monster on the field. However, in this case, the effect is negated by ""Gladiator Beast War Chariot."" Since the effect is negated, ""Man-Eater Bug"" does not destroy any monster, and it is simply sent to the Graveyard without activating its effect.
+
+3. **End of the Battle Phase**: At the end of the Battle Phase, ""Gladiator Beast Murmillo"" has an effect that states: ""At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 'Gladiator Beast' monster from your Deck, except 'Gladiator Beast Murmillo.'""
+
+4. **Condition for Activation**: The key part of ""Gladiator Beast Murmillo's"" effect is the condition ""if this card battled."" Since ""Gladiator Beast Murmillo"" did indeed battle during the Battle Phase (it attacked ""Man-Eater Bug""), the condition is satisfied regardless of the outcome of the battle or whether ""Man-Eater Bug's"" effect was activated or negated.
+
+5. **Conclusion**: Therefore, since ""Gladiator Beast Murmillo"" battled during the Battle Phase, its effect can be activated at the end of the Battle Phase, allowing you to shuffle it into the Deck and Special Summon another ""Gladiator Beast"" monster from your Deck.
+
+In summary, the effect of ""Gladiator Beast Murmillo"" can indeed be activated at the end of the Battle Phase because the condition of having battled is met, independent of the negation of ""Man-Eater Bug's"" effect.",[],8.6645,ok,
+8596,Monster,"While my ""Earthbound Immortal Chacu Challhua"" is in face-up Defense Position, its effect prevents my opponent from conducting their Battle Phase.
+However, what happens if my opponent enters the Battle Phase of their turn, and a ""Earthbound Immortal Chacu Challhua"" on my field is then changed to face-up Defense Position during that Battle Phase? Does the Battle Phase end?","While ""Earthbound Immortal Chacu Challhua"" is in face-up Defense Position, its effect prevents your opponent from entering the Battle Phase.
+However, if your opponent has already entered the Battle Phase, even if a ""Earthbound Immortal Chacu Challhua"" on your side of the field is changed to face-up Defense Position, the current Battle Phase will not end.","In this scenario, the effect of ""Earthbound Immortal Chacu Challhua"" states that while it is face-up on the field, your opponent cannot conduct their Battle Phase. However, if your opponent has already entered their Battle Phase and then ""Earthbound Immortal Chacu Challhua"" is changed to face-up Defense Position during that Battle Phase, the Battle Phase does not end.
+
+Here’s the reasoning:
+
+1. **Timing of Effects**: The effect of ""Earthbound Immortal Chacu Challhua"" that prevents your opponent from conducting their Battle Phase is a continuous effect that applies as long as it is face-up on the field. However, this effect only applies when the opponent has not yet entered their Battle Phase.
+
+2. **Entering the Battle Phase**: Once your opponent has already entered their Battle Phase, they are considered to be in that phase regardless of any changes to the field. The Battle Phase is a defined period during which certain actions can be taken, and it does not end simply because a card's effect changes.
+
+3. **Changing Position During the Battle Phase**: If ""Earthbound Immortal Chacu Challhua"" is changed to face-up Defense Position during the Battle Phase, its effect will now apply, but it does not retroactively affect the current Battle Phase. The opponent is already in the Battle Phase, and the effect does not cause the Battle Phase to end.
+
+In conclusion, changing ""Earthbound Immortal Chacu Challhua"" to face-up Defense Position during your opponent's Battle Phase does not end that Battle Phase. The opponent can continue their Battle Phase as normal until they complete their actions or end the phase themselves.",[],8.6531,ok,
+8753,Damage Step,"While ""Final Attack Orders"" is active, if a face-down Defense Position ""Umbral Horror Will o' the Wisp"" is attacked and then flipped face-up, but then changed to Attack Position by the effect of ""Final Attack Orders"" before damage calculation, can the effect of ""Umbral Horror Will o' the Wisp"" be activated after it is destroyed by battle and sent to the Graveyard?","The effect of ""Umbral Horror Will o' the Wisp"" will activate as long as it was in face-up Attack Position when it was considered destroyed by battle. Therefore, in this case, its effect will activate.","In this scenario, we need to analyze the interaction between ""Final Attack Orders,"" ""Umbral Horror Will o' the Wisp,"" and the rules regarding the Damage Step in Yu-Gi-Oh!.
+
+1. **Final Attack Orders**: This Continuous Spell card has the effect that all face-up monsters on the field must be in Attack Position. If a monster is in Defense Position, it will be changed to Attack Position immediately.
+
+2. **Umbral Horror Will o' the Wisp**: This monster has a flip effect that allows you to Special Summon a ""Umbral Horror"" monster from your Graveyard when it is flipped face-up. However, this effect can only be activated if ""Umbral Horror Will o' the Wisp"" is sent to the Graveyard after being flipped face-up.
+
+3. **Damage Step**: The Damage Step is a specific part of the battle phase where damage calculation occurs. During this step, certain effects cannot be activated, and the timing of when effects can be activated is crucial.
+
+Now, let's break down the sequence of events:
+
+- When ""Umbral Horror Will o' the Wisp"" is attacked while face-down, it is flipped face-up due to the attack.
+- At this point, ""Final Attack Orders"" will immediately change ""Umbral Horror Will o' the Wisp"" to Attack Position before damage calculation occurs.
+- After being changed to Attack Position, the battle continues, and if ""Umbral Horror Will o' the Wisp"" is destroyed by battle, it will be sent to the Graveyard.
+
+The key point here is that ""Umbral Horror Will o' the Wisp"" must be sent to the Graveyard after being flipped face-up in order for its effect to activate. Since it was flipped face-up and then changed to Attack Position before damage calculation, it is still considered to have been flipped face-up properly.
+
+After ""Umbral Horror Will o' the Wisp"" is destroyed in battle and sent to the Graveyard, its effect can indeed be activated because it was properly flipped face-up before being destroyed. The effect does not have any restrictions that would prevent it from activating after being destroyed in battle.
+
+**Ruling**: Yes, the effect of ""Umbral Horror Will o' the Wisp"" can be activated after it is destroyed by battle and sent to the Graveyard, as it was flipped face-up before being changed to Attack Position and subsequently destroyed.",[],8.8036,ok,
+9685,Monster,"During the opponent's turn, the『If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1』effect of the opponent's ""Timeater"" was activated, and the Duel proceed to my next turn.
+
+In this case, the Main Phase 1 is skipped, but how will the Phases proceed?","Even in the situation of the question, the Draw Phase and Standby Phase are conducted as normal.
+
+The Main Phase 1 afterwards will be skipped due to the effect of ""Timeater"", so if you would conduct the Battle Phase you proceed to the Battle Phase.
+(If you conducted the Battle Phase, after it ends proceed to the Main Phase 2 as normal.)
+
+If you do not conduct the Battle Phase then proceed to the End Phase.","In this scenario, the effect of ""Timeater"" has been activated during your opponent's turn, which states: ""If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1."" 
+
+Here's how the phases will proceed:
+
+1. **Opponent's Turn**: After ""Timeater"" destroys a monster, your opponent's next Main Phase 1 is skipped. This means that during their next turn, they will go through the following phases:
+   - **Draw Phase**: They will draw a card as usual.
+   - **Standby Phase**: They will proceed to the Standby Phase.
+   - **Main Phase 1**: This phase is skipped, so they will not be able to perform any actions that would normally occur during this phase, such as summoning monsters or activating spells/traps.
+   - **Battle Phase**: They will proceed to the Battle Phase as normal.
+   - **Main Phase 2**: After the Battle Phase, they will have their Main Phase 2, where they can perform actions as usual.
+   - **End Phase**: Finally, they will end their turn.
+
+2. **Your Turn**: After your opponent's turn concludes, you will begin your turn. You will go through the phases as follows:
+   - **Draw Phase**: You will draw a card.
+   - **Standby Phase**: You will proceed to your Standby Phase.
+   - **Main Phase 1**: You will have your Main Phase 1 available to you, as the effect of ""Timeater"" only affects your opponent's next Main Phase 1.
+   - **Battle Phase**: You will then proceed to your Battle Phase.
+   - **Main Phase 2**: After the Battle Phase, you will have your Main Phase 2.
+   - **End Phase**: Finally, you will end your turn.
+
+In summary, the effect of ""Timeater"" only affects the opponent's next Main Phase 1, and does not impact your own phases. Therefore, you will have access to your Main Phase 1 on your turn as normal.",[],11.0292,ok,
+21091,Damage Step,"My ""Amazoness Paladin"" destroyed the opponent's ""Red-Eyes Baby Dragon"" by battle.
+
+In that case, can I activate the『After damage calculation, if your ""Amazoness"" monster battled an opponent's monster while this card is already face-up in your Spell & Trap Zone: You can banish that opponent's monster』effect of ""Amazoness Onslaught""?","Even if your ""Amazoness"" monster destroys an opponent's monster by battle, the effect of ""Amazoness Onslaught"" can be activated after damage calculation.
+
+In that case, that opponent's monster that was destroyed by battle won't be sent to the Graveyard and will be banished after damage calculation.","In this scenario, you cannot activate the effect of ""Amazoness Onslaught"" after your ""Amazoness Paladin"" has destroyed your opponent's ""Red-Eyes Baby Dragon"" by battle.
+
+Here's the reasoning:
+
+1. **Understanding the Timing of Effects**: ""Amazoness Onslaught"" has a specific timing for its effect to activate. The effect states: ""After damage calculation, if your 'Amazoness' monster battled an opponent's monster while this card is already face-up in your Spell & Trap Zone: You can banish that opponent's monster."" 
+
+2. **Damage Calculation**: When ""Amazoness Paladin"" battles ""Red-Eyes Baby Dragon,"" damage calculation occurs. If ""Amazoness Paladin"" has higher ATK than ""Red-Eyes Baby Dragon,"" it will destroy it. However, the key point here is that the effect of ""Amazoness Onslaught"" can only be activated after damage calculation is fully resolved.
+
+3. **Resolution of Battle**: After damage calculation, if ""Amazoness Paladin"" successfully destroys ""Red-Eyes Baby Dragon,"" that monster is sent to the Graveyard. At this point, ""Amazoness Onslaught"" checks if the condition of having an opponent's monster that was battled is met. However, since ""Red-Eyes Baby Dragon"" has been sent to the Graveyard, it is no longer on the field.
+
+4. **Effect Activation**: Since ""Red-Eyes Baby Dragon"" is no longer on the field when you attempt to activate ""Amazoness Onslaught,"" you cannot banish it, as it is not a valid target. The effect of ""Amazoness Onslaught"" requires the opponent's monster to still be on the field after damage calculation to be able to banish it.
+
+In conclusion, while you can activate ""Amazoness Onslaught"" after damage calculation, it will not have any effect because the opponent's monster (""Red-Eyes Baby Dragon"") is no longer on the field. Therefore, you cannot banish it.",[],8.9613,ok,
+10827,Damage Step,"While the effect of my ""Skyscraper"" is applying, my ""Cipher Soldier"" battles an ""Elemental HERO"" on my opponent's field. Both of these effects that increase the ATK are applied while calculating damage. How do I proceed?","If the ATK of the ""Elemental HERO"" is higher, the effect of ""Cipher Soldier"" will activate During Damage Calculation. If the effect's resolution causes the ""Elemental HERO""'s ATK to be lower, you then apply the effect of ""Skyscraper"", and proceed to calculate damage.
+
+Furthermore, if the ATK of the ""Elemental HERO"" is lower, the effect of ""Skyscraper"" applies before ""Cipher Soldier""'s effect activates.","In this scenario, we need to analyze how the effects of ""Skyscraper"" and ""Cipher Soldier"" interact during the Damage Step.
+
+1. **Understanding the Cards**:
+   - **Skyscraper**: This Field Spell increases the ATK of your ""Elemental HERO"" monsters by 1000 ATK when they battle an opponent's monster.
+   - **Cipher Soldier**: This monster has an effect that increases its ATK by 1000 when it battles an opponent's monster.
+
+2. **Damage Step Mechanics**:
+   - During the Damage Step, the ATK values of the monsters involved in the battle are calculated to determine the outcome of the battle.
+   - Effects that modify ATK are applied in a specific order, and the timing of when these effects are applied is crucial.
+
+3. **Applying Effects**:
+   - When ""Cipher Soldier"" battles an ""Elemental HERO"" while ""Skyscraper"" is active, both effects that increase ATK will apply.
+   - ""Skyscraper"" will increase the ATK of the ""Elemental HERO"" by 1000 ATK.
+   - ""Cipher Soldier"" will also gain an additional 1000 ATK due to its own effect.
+
+4. **Calculating ATK**:
+   - Let's assume ""Cipher Soldier"" has a base ATK of 2000. When it battles an ""Elemental HERO"" (let's say it has a base ATK of 2000 as well):
+     - ""Cipher Soldier"" will have its ATK increased to 3000 (2000 base + 1000 from its effect).
+     - The ""Elemental HERO"" will have its ATK increased to 3000 (2000 base + 1000 from ""Skyscraper"").
+   - Therefore, both monsters will have an ATK of 3000 during the Damage Step.
+
+5. **Outcome of the Battle**:
+   - Since both monsters have equal ATK (3000), the battle will result in a tie, and both monsters will be destroyed.
+
+**Conclusion**: During the Damage Step, both ""Skyscraper"" and ""Cipher Soldier"" apply their effects simultaneously, resulting in both monsters having equal ATK. The battle will end in a tie, and both monsters will be destroyed.",[],9.0905,ok,
+21065,Damage Step,"During damage calculation when my ""Submarineroid"" is attacking directly with its own effect, I activate the effect of ""Megaroid City"" that switches its original ATK and DEF. In this case, are those switched ATK/DEF values treated as the new original ATK/DEF?","The original ATK and DEF switched by the effect of ""Megaroid City"" are considered the new original ATK/DEF values of your battling monster. In this situation, ""Submarineroid"" will have an original ATK of 1800 and original DEF of 800, so the battle damage it inflicts is 1800.","In this scenario, we need to analyze the interaction between ""Submarineroid,"" ""Megaroid City,"" and the rules regarding original ATK and DEF values during damage calculation.
+
+1. **Understanding ""Submarineroid"":** ""Submarineroid"" has an effect that allows it to attack directly if it is in face-up Attack Position. Its original ATK is 1200 and its DEF is 1000.
+
+2. **Understanding ""Megaroid City"":** ""Megaroid City"" has an effect that allows you to switch the original ATK and DEF of all ""Roid"" monsters you control. When you activate this effect, ""Submarineroid's"" original ATK and DEF values are switched, meaning it would now have an original ATK of 1000 and an original DEF of 1200.
+
+3. **Damage Calculation:** During the damage calculation step, the game refers to the original ATK and DEF values of the monsters involved. The term ""original"" refers to the values printed on the card before any modifications or effects are applied.
+
+4. **Effect of ""Megaroid City"":** When ""Megaroid City"" switches the original ATK and DEF of ""Submarineroid,"" it does not change the fact that the values are still considered the original values for the purposes of the game. The switched values are treated as the new original ATK and DEF for the duration of the effect of ""Megaroid City.""
+
+5. **Conclusion:** Therefore, during the damage calculation, ""Submarineroid"" will have an original ATK of 1000 and an original DEF of 1200 due to the effect of ""Megaroid City."" These switched values are treated as the new original values for the purposes of damage calculation while ""Megaroid City"" is active.
+
+In summary, yes, the switched ATK and DEF values are treated as the new original ATK and DEF for ""Submarineroid"" while ""Megaroid City"" is active.",[],7.8831,ok,
+16027,Damage Step,"""Timaeus the Knight of Destiny"" is face-up on my side of the field, also a face-up Attack Position Sheep Token is on my opponent's side of the field. In this situation, if ""Timaeus the Knight of Destiny"" battles the Sheep Token, can I activate its effect during damage calculation?","You cannot. In this situation, if the only other monsters on the field have 0 ATK, ""Timaeus the Knight of Destiny"" will already have ATK and DEF equal to that ATK. Therefore, you cannot activate its effect. (In this case, since both ""Timaeus the Knight of Destiny"" and the Sheep Token have 0 ATK, neither is destroyed by battle.)","In this scenario, you are asking whether you can activate the effect of ""Timaeus the Knight of Destiny"" during damage calculation when it battles a Sheep Token.
+
+**Ruling:**
+
+You **cannot** activate the effect of ""Timaeus the Knight of Destiny"" during damage calculation.
+
+**Reasoning:**
+
+1. **Understanding Damage Calculation**: The damage calculation step occurs after the declaration of an attack and involves determining the battle damage that will be inflicted. During this step, certain actions are restricted, and players cannot activate most effects.
+
+2. **Effect Timing**: ""Timaeus the Knight of Destiny"" has an effect that allows you to send a monster from your hand or field to the Graveyard to increase its ATK by 1000 until the end of the turn. However, this effect can only be activated during the Main Phase, not during the Damage Step.
+
+3. **Damage Step Restrictions**: According to the official Yu-Gi-Oh! rules, during the Damage Step, players cannot activate effects that would modify ATK or DEF, nor can they activate effects that would change the state of the game (like sending cards to the Graveyard). The only exceptions are certain effects that specifically state they can be activated during the Damage Step, such as those that trigger on damage calculation or effects that do not modify ATK/DEF.
+
+4. **Conclusion**: Since ""Timaeus the Knight of Destiny's"" effect modifies its ATK and is not an effect that can be activated during the Damage Step, you cannot activate it when it battles the Sheep Token.
+
+In summary, you must wait until the Damage Step is over to activate any effects, and since ""Timaeus the Knight of Destiny's"" effect cannot be activated during that time, it cannot be used in this situation.",[],7.6225,ok,
+16828,Replay,"My Dragon Synchro Monster equipped with ""Red Cocoon"" attacks, and the effect of ""Red Cocoon"" applies, causing my opponent's monsters to have their effects negated. However, my opponent activates ""Call of the Haunted"", and a replay occurs.
+
+If I choose to cancel the attack, what happens to ""Red Cocoon""'s effect that negates my opponent's monsters' effects until the end of the Damage Step?","If the attacking monster equipped with ""Red Cocoon"" cancels its attack during a replay, the effect of ""Red Cocoon"" will no longer apply, and your opponent's monsters' effects will no longer be negated.","In this scenario, we need to analyze the interaction between ""Red Cocoon,"" the replay, and the cancellation of the attack.
+
+1. **Understanding ""Red Cocoon"":** ""Red Cocoon"" has an effect that states that while it is equipped to a monster, your opponent's monsters' effects are negated until the end of the Damage Step. This effect is active as long as the conditions for it to apply are met (i.e., the equipped monster is attacking).
+
+2. **Replay Mechanic:** When your opponent activates ""Call of the Haunted"" to Special Summon a monster during the Battle Phase, a replay occurs. According to the rules, a replay allows the attacking player to choose whether to continue the attack or cancel it. If the attack is canceled, the attack is considered to have not occurred.
+
+3. **Effect Duration:** The key point here is that ""Red Cocoon"" specifies that its effect applies until the end of the Damage Step. If you choose to cancel the attack during the replay, the attack does not proceed, and thus the Damage Step does not occur. Since the Damage Step is where ""Red Cocoon's"" effect would normally apply, if the attack is canceled, the effect of ""Red Cocoon"" will no longer be in effect because the conditions for it to apply (the attack happening) are not met.
+
+**Conclusion:** If you cancel the attack after the replay, ""Red Cocoon's"" effect that negates your opponent's monsters' effects will no longer apply. The effect is contingent upon the attack occurring, and since the attack is canceled, the effect does not persist. Therefore, your opponent's monsters will regain their effects as soon as the attack is canceled.",[],7.6713,ok,
+8731,Damage Step,"Your opponent controls a ""Decode Talker"" in the Extra Monster Zone and you control a ""Auram the World Chalice Blademaster"" in your Main Monster Zone in the same column.
+
+In this situation, if your opponent's ""Decode Talker"" attacks your ""Auram the World Chalice Blademaster"" so that it would be destroyed by battle, can you apply the second effect of ""World Legacy's Heart"" in the Graveyard?","Yes, you can apply the effect of ""World Legacy's Heart"" even if your monster is linked to your opponent's monster.","In this scenario, you cannot apply the second effect of ""World Legacy's Heart"" from your Graveyard when your opponent's ""Decode Talker"" attacks your ""Auram the World Chalice Blademaster.""
+
+Here's the reasoning:
+
+1. **Understanding the Effects**: ""World Legacy's Heart"" has a second effect that allows you to banish it from your Graveyard to prevent a monster you control from being destroyed by battle this turn. However, this effect can only be activated when a monster you control is about to be destroyed by battle.
+
+2. **Battle Mechanics**: When ""Decode Talker"" attacks ""Auram the World Chalice Blademaster,"" the battle occurs in the Damage Step. During this step, the attacking and defending monsters' ATK and DEF are compared to determine if either monster is destroyed. If ""Decode Talker"" has higher ATK than ""Auram,"" then ""Auram"" would be destroyed by battle.
+
+3. **Timing of Effects**: The key point here is that ""World Legacy's Heart"" can only be activated in response to the destruction of a monster. However, the effect of ""World Legacy's Heart"" must be activated before the resolution of the battle damage. Since the battle is occurring in the Damage Step, and the effect of ""World Legacy's Heart"" requires you to respond to the destruction, you cannot activate it after the battle has been resolved.
+
+4. **Conclusion**: Since the battle is taking place and you cannot activate ""World Legacy's Heart"" in response to the destruction of ""Auram"" (as it would need to be activated before the outcome of the battle is determined), you cannot apply its effect in this situation. Therefore, ""Auram the World Chalice Blademaster"" would be destroyed by battle if ""Decode Talker"" has higher ATK.
+
+In summary, you cannot use ""World Legacy's Heart"" in this situation because it requires a specific timing that does not align with the Damage Step mechanics when a monster is being destroyed by battle.",[],6.8539,ok,
+17895,Replay,"When ""Blue-Eyes Twin Burst Dragon"" performs its second attack on an opponent's monster, if ""Compulsory Evacuation Device"" is activated during the Battle Step so that that opponent's monster is no longer on the field, what happens with the attack?","In the proposed scenario, when ""Blue-Eyes Twin Burst Dragon"" performs its second attack, if a replay is triggered and the opponent does not control any monsters, since it is not possible to choose the opponent as a new attack target, that ""Blue-Eyes Twin Burst Dragon"" does not perform Damage Calculation as a result and that second attack stops.","When ""Blue-Eyes Twin Burst Dragon"" attacks an opponent's monster, it has the ability to perform a second attack during the same Battle Phase. If ""Compulsory Evacuation Device"" is activated during the Battle Step of the second attack, the opponent's monster is returned to their hand, and the situation must be resolved according to the rules of the game.
+
+Here's the step-by-step reasoning:
+
+1. **Understanding the Attack Sequence**: When ""Blue-Eyes Twin Burst Dragon"" declares its second attack, it is still in the Battle Step. The attack is declared against a specific target, which is the opponent's monster.
+
+2. **Activation of ""Compulsory Evacuation Device""**: If ""Compulsory Evacuation Device"" is activated in response to the attack, the targeted monster is returned to the opponent's hand. This action occurs during the Battle Step, but it does not change the fact that the attack was declared against that monster.
+
+3. **Resolution of the Attack**: According to the rules, if an attack is declared against a monster and that monster is no longer on the field when the attack resolves, the attack is considered to have no valid target. In this case, since the opponent's monster is returned to their hand, ""Blue-Eyes Twin Burst Dragon"" cannot complete its attack.
+
+4. **Outcome**: The attack does not deal damage, and the attack is effectively canceled. The ""Blue-Eyes Twin Burst Dragon"" does not get to attack again because the attack was not successful due to the absence of a valid target.
+
+In summary, when ""Compulsory Evacuation Device"" is activated during the Battle Step of the second attack by ""Blue-Eyes Twin Burst Dragon,"" the attack is canceled because the target monster is no longer on the field. The attack does not resolve, and no damage is dealt.",[],7.4485,ok,
+15831,Damage Step,"""Reflect Bounder"" and ""Jinzo"" are face-up in my opponent's Monster Zone.
+
+When the opponent's ""Jinzo"" declares an attack, if I activate ""Roulette Spider"" and the『4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation』effect is applied, how will it resolve?","In the situation of the question, the attack target of the opponent's ""Jinzo"" is changed from a monster on your field (or the player) to the opponent's ""Reflect Bounder"", and damage calculation is performed due to that effect's resolution.
+
+The opponent's monsters battle each other, and the difference between the 2400 ATK of ""Jinzo"" and the 1700 ATK of ""Reflect Bounder"", 700, will be inflicted to the opponent as battle damage.
+(In this case, since it's not being attacked by an opponent's monster, the effect of ""Reflect Bounder"" doesn't activate.)","In this scenario, we have ""Reflect Bounder"" and ""Jinzo"" on your opponent's side of the field. When your opponent's ""Jinzo"" declares an attack, you activate ""Roulette Spider"" and use its effect to change the attack target to ""Reflect Bounder.""
+
+Here's how the resolution works:
+
+1. **Activation of ""Roulette Spider"":** When you activate ""Roulette Spider,"" you choose ""Reflect Bounder"" as the new attack target. This is a valid target since ""Reflect Bounder"" is a face-up monster controlled by your opponent.
+
+2. **Changing the Attack Target:** The effect of ""Roulette Spider"" successfully changes the attack target from ""Jinzo"" to ""Reflect Bounder."" 
+
+3. **Damage Calculation:** After the attack target is changed, the damage calculation proceeds as normal. Since ""Jinzo"" is attacking ""Reflect Bounder,"" we need to consider the effects of both monsters during this calculation.
+
+4. **Reflect Bounder's Effect:** ""Reflect Bounder"" has an effect that states: ""If this card is attacked, it inflicts damage to your opponent equal to the ATK of the attacking monster."" Therefore, when ""Jinzo"" attacks ""Reflect Bounder,"" the damage calculation will occur, and ""Reflect Bounder"" will inflict damage to your opponent equal to ""Jinzo's"" ATK.
+
+5. **Jinzo's Effect:** ""Jinzo"" negates all Trap effects on the field while it is face-up. However, this does not affect the damage calculation itself; it only prevents Trap Cards from being activated. Since ""Roulette Spider"" is a monster effect and not a Trap Card, it resolves normally.
+
+In conclusion, the attack resolves with ""Jinzo"" attacking ""Reflect Bounder,"" and you will inflict damage to your opponent equal to ""Jinzo's"" ATK due to ""Reflect Bounder's"" effect. The resolution of the attack does not change due to ""Jinzo's"" effect, as it only negates Trap Cards, not monster effects.",[],7.8814,ok,
+13734,Damage Step,"""Temple of the Mind's Eye"" is face-up in the Field Zone.
+
+If my opponent's ""Amazoness Swords Woman"" attacks my face-up Attack Position ""Blue-Eyes White Dragon"", what happens to the battle damage?","In this scenario, your ""Blue-Eyes White Dragon"" battles your opponent's ""Amazoness Swords Woman"", and the 1500 damage your opponent would take is inflicted to you due to the effect of ""Amazoness Swords Woman"".
+
+However, since the effect of ""Temple of the Mind's Eye"" is applying, that damage becomes 1000.","In this scenario, we have ""Temple of the Mind's Eye"" in the Field Zone and your opponent's ""Amazoness Swords Woman"" attacking your ""Blue-Eyes White Dragon.""
+
+**Temple of the Mind's Eye** has the following effect: ""If a monster you control battles, your opponent takes any battle damage you would have taken from that battle.""
+
+**Amazoness Swords Woman** has the effect: ""Any battle damage you take from battles involving this card is halved.""
+
+Now, let's break down the interaction during the battle step:
+
+1. **Battle Damage Calculation**: When ""Amazoness Swords Woman"" attacks ""Blue-Eyes White Dragon,"" the battle damage is calculated based on their respective ATK values. ""Amazoness Swords Woman"" has 1200 ATK, and ""Blue-Eyes White Dragon"" has 3000 ATK. 
+
+2. **Damage Calculation**: In this case, ""Blue-Eyes White Dragon"" would deal 3000 damage to ""Amazoness Swords Woman,"" and ""Amazoness Swords Woman"" would deal 1200 damage to ""Blue-Eyes White Dragon."" 
+
+3. **Applying Effects**:
+   - According to ""Temple of the Mind's Eye,"" you would normally take the battle damage from the attack, which is 1200 damage from ""Amazoness Swords Woman.""
+   - However, due to ""Amazoness Swords Woman's"" effect, the battle damage you take from battles involving her is halved. Therefore, instead of taking 1200 damage, you would take 600 damage.
+
+4. **Final Outcome**: The final result is that you take 600 damage from the battle due to the combined effects of ""Temple of the Mind's Eye"" and ""Amazoness Swords Woman.""
+
+In conclusion, when ""Amazoness Swords Woman"" attacks your ""Blue-Eyes White Dragon,"" you will take 600 battle damage as a result of the interaction between the two card effects.",[],8.6503,ok,
+8325,Damage Step,"Can the effect of a ""The Weather Painter Thunder"" gained from ""The Weather Thundery Canvas"" be activated when it battles an opponent's face-down Defense Position monster?","Even if your ""The Weather"" monster that gained the effect from ""The Weather Thundery Canvas"" battles an opponent's face-down Defense Position monster, you can activate that effect at the start of the Damage Step.
+
+In that case, since the opponent's monster returns to the hand before it is flipped face-up, that monster's effects will not activate if it is a Flip monster.","In this scenario, we need to analyze the interaction between ""The Weather Painter Thunder,"" ""The Weather Thundery Canvas,"" and the rules regarding the Damage Step in Yu-Gi-Oh!.
+
+""The Weather Painter Thunder"" has an effect that can be activated when it battles an opponent's monster. Specifically, its effect allows you to return a card from your opponent's field to their hand. However, the key point here is that this effect can only be activated when it is battling an opponent's monster.
+
+When a monster is in face-down Defense Position, it is not considered to be ""battling"" in the traditional sense until it is flipped face-up. During the Damage Step, if ""The Weather Painter Thunder"" attacks a face-down Defense Position monster, the monster is flipped face-up, and the battle occurs. However, the effect of ""The Weather Painter Thunder"" cannot be activated during the Damage Step itself.
+
+According to the rules, effects that trigger during battle (like the one from ""The Weather Painter Thunder"") can only be activated after the Damage Step has resolved. Since the opponent's monster is face-down, you cannot activate the effect of ""The Weather Painter Thunder"" until after the battle has concluded and the opponent's monster has been flipped face-up.
+
+Therefore, the ruling is as follows:
+
+**Ruling:** The effect of ""The Weather Painter Thunder"" gained from ""The Weather Thundery Canvas"" cannot be activated when it battles an opponent's face-down Defense Position monster. The effect can only be activated after the battle has resolved and the monster is face-up, but it cannot be activated during the Damage Step itself.",[],7.2766,ok,
+279,Damage Step,"When my ""Amazoness Spy"" is destroyed by battle and sent to the Graveyard, I activate its effect. When targeting an ""Amazoness"" monster in my Graveyard, do I also declare whether I'm returning it to my hand or to my Deck?","The second effect of ""Amazoness Spy"" targets, but you choose to return it to either your hand or Deck when the effect resolves. You do not need to declare where you are returning the targeted monster to when activating the effect.
+Also, if the targeted monster is ""Amazoness Empress"" or ""Amazoness Pet Liger"", it returns to the Extra Deck.","When you activate the effect of ""Amazoness Spy"" after it has been destroyed by battle and sent to the Graveyard, you do not need to declare whether you are returning the targeted ""Amazoness"" monster to your hand or to your Deck at the time of activation. 
+
+The effect of ""Amazoness Spy"" states: ""When this card is destroyed by battle and sent to the Graveyard: You can target 1 'Amazoness' monster in your Graveyard; return that target to your hand or to the Deck."" 
+
+The key point here is that the choice of whether to return the targeted monster to your hand or to your Deck is made at the time of activation of the effect. You will declare your target (the ""Amazoness"" monster in your Graveyard) when you activate the effect, but you will also specify the destination (hand or Deck) at that same time. 
+
+This means that you must declare both the target and the destination simultaneously when you activate the effect. You cannot wait until after the target is chosen to decide where to return it. 
+
+In summary, when you activate the effect of ""Amazoness Spy,"" you must declare both the target ""Amazoness"" monster in your Graveyard and whether you are returning it to your hand or to your Deck at the same time.",[],4.6353,ok,
+19847,Damage Step,"When I declare a direct attack with ""Destiny HERO - Decider"", my opponent activates ""Dimension Wall"". In this case, can I activate the effect of a ""Destiny HERO - Dynatag"" in my hand during damage calculation?","In this scenario, since the effect of ""Dimension Wall"" has been applied, you would take 1600 battle damage from the attack declared by your ""Destiny HERO - Decider"", so you can activate the effect of ""Destiny HERO - Dynatag"" during damage calculation. In that case, battle damage from this battle becomes 0, and each player takes 1000 damage.","In this scenario, you cannot activate the effect of ""Destiny HERO - Dynatag"" during damage calculation after your opponent activates ""Dimension Wall.""
+
+Here's the reasoning:
+
+1. **Understanding the Damage Step**: When a direct attack is declared, the game enters the Damage Step. During this step, specific actions can be taken, but there are restrictions on what can be activated.
+
+2. **Effect of ""Dimension Wall""**: ""Dimension Wall"" is a Trap Card that, when activated in response to an attack, allows the player to inflict damage to the attacking player equal to the attacker's ATK. This activation occurs during the Damage Step, specifically when the attack is declared.
+
+3. **Activating Effects During Damage Calculation**: The Damage Step is divided into several sub-phases, including the Damage Calculation phase. During this phase, players can only activate certain types of effects. Specifically, you can activate effects that modify the ATK or DEF of monsters, or effects that trigger on damage calculation, but you cannot activate effects that are not specifically allowed.
+
+4. **""Destiny HERO - Dynatag"" Effect**: The effect of ""Destiny HERO - Dynatag"" allows you to send it from your hand to the Graveyard to increase the ATK of a ""Destiny HERO"" monster you control by 800 points. However, this effect is not a response to damage calculation; it is a cost that must be paid to activate the effect. Since you are in the Damage Calculation phase and ""Dimension Wall"" has already been activated, you cannot activate ""Dynatag"" because you cannot activate effects that are not specifically allowed during this phase.
+
+5. **Conclusion**: Since ""Dimension Wall"" is activated during the Damage Step and you are in the Damage Calculation phase, you cannot activate ""Destiny HERO - Dynatag"" from your hand. Therefore, you will not be able to use its effect to increase the ATK of ""Destiny HERO - Decider"" during this time.
+
+In summary, the answer is **no**, you cannot activate ""Destiny HERO - Dynatag"" during damage calculation after ""Dimension Wall"" is activated.",[],11.3419,ok,
+12160,Damage Step,"While I control both ""Swallowtail Butterspy"" and ""Amazoness Swords Woman"", my opponent's monster attacks ""Amazoness Swords Woman"", and ""Amazoness Swords Woman""'s effect causes my opponent to take the battle damage. Can I now activate the effect of ""Swallowtail Butterspy""?","If the effect of ""Amazoness Swords Woman"" inflicts Battle Damage on your opponent, the effect of ""Swallowtail Butterspy"" cannot be activated.","In this scenario, we need to analyze the sequence of events during the battle phase, specifically during the Damage Step, and how the effects of ""Amazoness Swords Woman"" and ""Swallowtail Butterspy"" interact.
+
+1. **Battle Damage Calculation**: When your opponent's monster attacks ""Amazoness Swords Woman,"" the battle damage is calculated. ""Amazoness Swords Woman"" has an effect that states: ""If this card battles an opponent's monster, any battle damage it inflicts to your opponent is doubled."" This means that when ""Amazoness Swords Woman"" is attacked, the opponent will take battle damage equal to the damage that would normally be inflicted, but doubled.
+
+2. **Damage Step**: The Damage Step is a specific part of the battle phase where damage is calculated and effects that trigger based on damage are resolved. During this step, certain actions are restricted. Notably, you cannot activate effects that would normally be activated in response to damage being calculated or dealt.
+
+3. **Swallowtail Butterspy's Effect**: ""Swallowtail Butterspy"" has an effect that allows you to return a monster to the owner's hand when it is sent from the field to the graveyard. However, this effect can only be activated when the monster is sent to the graveyard, which does not occur until after the Damage Step is fully resolved.
+
+4. **Resolution of Effects**: Since ""Amazoness Swords Woman"" is not destroyed in this battle (assuming it has equal or higher ATK than the attacking monster), it remains on the field. The effect of ""Swallowtail Butterspy"" cannot be activated because it requires a monster to be sent to the graveyard, which does not happen in this case.
+
+In conclusion, you **cannot** activate the effect of ""Swallowtail Butterspy"" in response to the battle damage being dealt to ""Amazoness Swords Woman"" because the Damage Step does not allow for the activation of effects until it is fully resolved, and ""Swallowtail Butterspy"" requires a monster to be sent to the graveyard to activate its effect, which does not occur in this situation. Therefore, the answer is **no**, you cannot activate ""Swallowtail Butterspy"" in this scenario.",[],9.4994,ok,
+10680,Damage Step,"If a monster equipped with ""Vylon Stella"" is destroyed by battle, can I activate ""Vylon Stella""'s effect that destroys the opponent's battling monster?","If a monster equipped with ""Vylon Stella"" is destroyed, and sent to the Graveyard, it is no longer equipped with ""Vylon Stella"" as a result. Therefore, ""Vylon Stella""'s effect cannot be activated.","In this scenario, if a monster equipped with ""Vylon Stella"" is destroyed by battle, you **cannot** activate ""Vylon Stella""'s effect to destroy the opponent's battling monster.
+
+Here's the reasoning:
+
+1. **Understanding ""Vylon Stella""**: ""Vylon Stella"" has an effect that states: ""If the equipped monster is destroyed by battle, you can destroy the monster that battled it."" This effect is contingent upon the equipped monster being destroyed by battle.
+
+2. **Damage Step Mechanics**: When a monster is destroyed by battle, the destruction occurs during the Damage Step. However, the effects that trigger as a result of this destruction must be activated after the Damage Step concludes. 
+
+3. **Timing of Effects**: The effect of ""Vylon Stella"" is a triggered effect that activates when the equipped monster is destroyed by battle. However, the Damage Step has specific rules that prevent any effects from being activated until the Damage Step is fully resolved. 
+
+4. **Resolution of Battle**: After the battle concludes and the equipped monster is destroyed, the Damage Step ends, and we move to the End of the Battle Phase. At this point, ""Vylon Stella"" can no longer activate its effect because the conditions for its activation (the equipped monster being destroyed) have already resolved, and the game state has moved on.
+
+In conclusion, since ""Vylon Stella""'s effect can only be activated immediately after the equipped monster is destroyed by battle and during the Damage Step, and since the Damage Step does not allow for effects to be activated until it is fully resolved, you cannot activate ""Vylon Stella""'s effect after the equipped monster has been destroyed.",[],6.9161,ok,
+13508,Monster,"If a WATER monster's effect is activated by sending ""Atlantean Dragoons"", ""Atlantean Marksman"", ""Atlantean Heavy Infantry"", or ""Neptabyss, the Atlantean Prince"", to the Graveyard, and that effect's activation is then negated by ""Divine Wrath"", or the effect is negated by ""Skill Drain"", will the effect of ""Atlantean Dragoons"" etc. activate?","Yes, it will.
+If a WATER monster's effect is activated by sending ""Atlantean Dragoons"" etc. to the Graveyard, even if that effect's activation or effect is later negated by ""Divine Wrath"" or ""Skill Drain"", ""Atlantean Dragoons"" etc. is still considered to have been『sent to the Graveyard to activate a WATER monster's effect.』
+
+This also applies to the following cards' effects.
+
+Effects that can be activated『if this card is sent to the Graveyard to activate a WATER monster's effect:』
+● ""Deep Sea Sentry""
+● ""Mermail Shadow Squad""
+
+Effects that can be activated『if a WATER monster is sent to the Graveyard to activate a card's effect:』
+● ""Mermail King - Neptabyss""
+
+Effects that can be activated『if this card is sent to the Graveyard to activate a Dragon monster's effect:』
+● ""Armed Dragon Thunder LV3""
+● ""Armed Dragon Thunder LV5""
+● ""Armed Dragon Thunder LV7""
+
+Effects that can be activated『if this card is sent to the Graveyard to activate a monster effect:』
+● ""Butterfly Fish""
+● ""Susurrus of the Sinful Spoils""
+● ""Beware the White Forest""
+● ""Tales of the White Forest""
+● ""Woes of the White Forest""
+● ""Sinful Spoils of the White Forest""
+● ""Azamina Aphes""
+● ""Scourge of the White Forest""
+
+Effects that can be activated if a card『was sent there to activate the effect of """"Fallen of Albaz"""" this turn:』
+● ""Branded in White""
+● ""Screams of the Branded""
+● ""Branded Bond""
+● ""Judgment of the Branded""
+
+Effects that can be activated『if this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster's effect:』
+● ""Heavy Freight Train Derricrane""
+● ""Performage Cup Tricker""
+
+Effects that can be activated『if this card is detached from an Xyz Monster to activate that monster's effect:』
+● ""Zubababa Knight""
+● ""Gagaga Ganbara Knight""
+● ""Gogogo Goblindbergh""
+● ""Dodododo Warrior""
+● ""Galaxy-Eyes Afterglow Dragon""
+
+Effects that can be activated『if a card(s) is sent from your hand to the Graveyard to activate your Normal Trap Card or your ""Labrynth"" card or effect:』
+● ""Labrynth Cooclock""
+
+Effects that can be activated if a card『was sent there to activate this effect this turn:』
+● ""Dinowrestler Martial Anga""
+
+Effects that can be activated『if you reveal a card(s) in your hand to activate a card or effect:』
+● ""Vanquish Soul Jiaolong""
+
+Effects that can be activated『if a Spell/Trap(s) is sent to the Graveyard to activate a card or effect:』
+● ""Play the Diabell""
+
+Effects that can be activated if a card is『sent to the Graveyard to activate the effect of """"Artmage Academic Arcane Arts Acropolis"""":』
+● ""Artmage Movement -Pedigree-""
+● ""Artmage Peripeteia -Turmoil-""","In this scenario, we need to analyze the effects of the cards involved, specifically focusing on the activation and resolution of effects in relation to the negation provided by ""Divine Wrath"" or ""Skill Drain.""
+
+1. **Understanding the Effects**:
+   - ""Atlantean Dragoons,"" ""Atlantean Marksman,"" ""Atlantean Heavy Infantry,"" and ""Neptabyss, the Atlantean Prince"" all have effects that can be activated when they are sent from the field to the Graveyard. For example, ""Atlantean Dragoons"" allows you to add a WATER monster from your Deck to your hand when it is sent to the Graveyard.
+   - ""Divine Wrath"" is a card that can negate the activation of a monster's effect and destroy that monster. If ""Divine Wrath"" is used in response to the activation of one of these effects, the effect is negated, and the monster is destroyed.
+   - ""Skill Drain"" negates the effects of all face-up monsters on the field. If a monster is affected by ""Skill Drain,"" its effects are negated as long as it remains face-up on the field.
+
+2. **Effect Activation vs. Resolution**:
+   - The key point here is that the effects of ""Atlantean Dragoons"" and the other Atlantean monsters are activated when they are sent to the Graveyard. If their effects are activated successfully, they will attempt to resolve.
+   - If ""Divine Wrath"" is used to negate the activation of the effect, the effect does not activate successfully, and therefore, it will not resolve. The monster is destroyed, but the effect does not take place.
+   - If ""Skill Drain"" is active when the Atlantean monster is sent to the Graveyard, its effect is still considered to be activated, but it will not resolve due to the negation of its effect by ""Skill Drain.""
+
+3. **Conclusion**:
+   - In both cases, whether using ""Divine Wrath"" or ""Skill Drain,"" the effects of ""Atlantean Dragoons,"" ""Atlantean Marksman,"" ""Atlantean Heavy Infantry,"" or ""Neptabyss, the Atlantean Prince"" will not activate successfully if they are negated. Therefore, the effects will not take place, and you will not be able to add a WATER monster from your Deck to your hand or trigger any other effects associated with these monsters.
+
+**Final Ruling**: If the effect of a WATER monster (like ""Atlantean Dragoons"") is activated by sending it to the Graveyard and that activation is negated by ""Divine Wrath"" or ""Skill Drain,"" the effect will not activate successfully, and thus, it will not resolve.",[],10.0440,ok,
+18734,Spell,"Is it possible to activate ""Magical Mid-Breaker Field"" when resolving ""Pop-Up""?","""Magical Mid-Breaker Field"" is a Field Spell which can only be activated at the start of your Main Phase 1 or 2.
+
+If ""Pop-Up"" was activated at the start of your Main Phase 1 or 2, you can activate ""Magical Mid-Breaker Field"" from your Deck when resolving ""Pop-Up"".","To determine whether you can activate ""Magical Mid-Breaker Field"" when resolving ""Pop-Up,"" we need to analyze the effects and timing of both cards.
+
+**Card Text Overview:**
+- **""Pop-Up""**: This card allows you to target one monster you control; it gains 1000 ATK until the end of the turn. Additionally, if you control a monster that was Special Summoned from the Extra Deck, you can also draw a card.
+- **""Magical Mid-Breaker Field""**: This card is a Continuous Spell that prevents your opponent from activating Spell Cards or their effects in response to the activation of your Spell Cards.
+
+**Timing and Activation:**
+1. **Activation of ""Pop-Up""**: When you activate ""Pop-Up,"" you are performing an action that is not yet resolved. The effect of ""Pop-Up"" is still in the process of being activated.
+2. **""Magical Mid-Breaker Field"" Activation**: ""Magical Mid-Breaker Field"" can be activated at any time during your Main Phase, but it must be activated before your opponent has the chance to respond to your Spell Card activations.
+
+**Resolution of Effects**: 
+- When you activate ""Pop-Up,"" your opponent has the opportunity to respond to it before it resolves. If they have ""Magical Mid-Breaker Field"" in play, they cannot respond to the activation of ""Pop-Up"" with any Spell Cards, including ""Magical Mid-Breaker Field"" itself, because it is a Spell Card that would need to be activated in response to another Spell Card.
+
+**Conclusion**: 
+You cannot activate ""Magical Mid-Breaker Field"" when resolving ""Pop-Up"" because ""Magical Mid-Breaker Field"" must be activated before the resolution of ""Pop-Up"" to prevent your opponent from responding. If ""Magical Mid-Breaker Field"" is already on the field, it will not affect the activation of ""Pop-Up"" since it is not a response to it, but rather a continuous effect that applies to future Spell activations.
+
+Therefore, the answer is **No**, you cannot activate ""Magical Mid-Breaker Field"" when resolving ""Pop-Up.""",[],10.2338,ok,
+23277,Trap,"Can ""Soul Binding Gate"" be activated by the effects of ""Metaverse"" or ""Demise of the Land""?","""Soul Binding Gate"" can be activated with the effects of ""Metaverse"" and ""Demise of the Land"", but you must still meet its requirements of controlling no monsters and Set Spell/Trap you control being destroyed by card effect this turn.
+
+Therefore, if you control no monsters and a Set Spell/Trap you control was destroyed by card effect this turn, you can activate ""Soul Binding Gate"" with the effect of ""Metaverse"". Also, when the opponent Special Summons a monster(s) during a turn in which a Set Spell/Trap you control was destroyed by card effect, and you control no monsters, you can activate ""Soul Binding Gate"" with ""Demise of the Land""'s effect.","**Ruling:**
+
+""Soul Binding Gate"" can be activated by the effects of both ""Metaverse"" and ""Demise of the Land.""
+
+**Reasoning:**
+
+1. **Understanding the Cards:**
+   - ""Soul Binding Gate"" is a Continuous Trap Card that has the effect of allowing you to activate it from your hand if you control a ""Soul"" monster.
+   - ""Metaverse"" is a Spell Card that allows you to add a Field Spell from your Deck to your hand or activate one directly from your Deck.
+   - ""Demise of the Land"" is a Continuous Spell Card that allows you to activate a Field Spell directly from your Deck when your opponent Normal Summons or Sets a monster.
+
+2. **Activation Conditions:**
+   - Both ""Metaverse"" and ""Demise of the Land"" allow you to activate a Field Spell directly from your Deck. ""Soul Binding Gate"" is a Trap Card, but it has a specific condition that allows it to be activated from your hand if you control a ""Soul"" monster.
+
+3. **Field Spell Interaction:**
+   - The key point here is that ""Soul Binding Gate"" does not have to be activated as a Field Spell; it is a Trap Card that can be activated under certain conditions. The effects of ""Metaverse"" and ""Demise of the Land"" do not restrict the type of card that can be activated; they simply allow you to bring a Field Spell into play.
+
+4. **Conclusion:**
+   - Since ""Soul Binding Gate"" can be activated from your hand if you control a ""Soul"" monster, and both ""Metaverse"" and ""Demise of the Land"" facilitate the activation of Field Spells, you can indeed activate ""Soul Binding Gate"" using either of these cards, provided you meet the condition of controlling a ""Soul"" monster at the time of activation.
+
+Thus, the answer is yes, ""Soul Binding Gate"" can be activated by the effects of ""Metaverse"" or ""Demise of the Land,"" as long as you control a ""Soul"" monster.",[],6.6780,ok,
+23472,Monster,"While my opponent's ""Branded Lost"" is applying its effect, they activate ""Branded Fusion"". What happens if I activate:
+
+Ⓐ: ""Baronne de Fleur""'s effect in response?
+Ⓑ: The effect of ""Ash Blossom & Joyous Spring"", or ""Dominus Impulse"", in response?","What happens depends on whether the effect in question attempts to negate the activation of the effect that includes Fusion Summoning, or not. If it does, that effect will not apply due to ""Branded Lost""'s effect, and the activation will not be negated.
+
+Therefore:
+Ⓐ: ""Branded Fusion"" resolves normally. (""Baronne de Fleur""'s effect would negate ""Branded Fusion""'s activation. Therefore, it is not applied.)
+Ⓑ: ""Branded Fusion""'s effect is negated. (The effects of ""Ash Blossom & Joyous Spring"" and ""Dominus Impulse"" do not attempt to negate its activation.)
+
+This also applies to the following effects, which prevent the activation of your effects that include an effect to Fusion Summon from being negated:
+● ""Magical Meltdown""'s ②nd effect
+● ""Dragonroid""'s 2nd bulleted (●) effect","To address your question, we need to analyze the interactions between ""Branded Lost,"" ""Branded Fusion,"" and the effects of ""Baronne de Fleur,"" ""Ash Blossom & Joyous Spring,"" and ""Dominus Impulse.""
+
+### Context:
+1. **Branded Lost**: This card has an effect that allows your opponent to search their deck for a ""Branded"" card when a monster is sent from the field to the GY. It also has an effect that allows them to apply a specific effect when they activate a ""Branded"" spell or trap.
+2. **Branded Fusion**: This card allows your opponent to Fusion Summon a monster by sending materials from their deck to the GY. It is a spell card that resolves in the same chain as other effects.
+3. **Baronne de Fleur**: This card has an effect that allows you to negate a spell or trap effect by detaching a material from it.
+4. **Ash Blossom & Joyous Spring**: This card can negate the effect of a card that adds a card from the deck to the hand, which includes the effect of ""Branded Fusion.""
+5. **Dominus Impulse**: This card can negate the activation of a spell card, which includes ""Branded Fusion.""
+
+### Responses:
+#### Ⓐ: Activating ""Baronne de Fleur""'s effect in response to ""Branded Fusion""
+If you activate ""Baronne de Fleur""'s effect in response to ""Branded Fusion,"" you will be able to negate the activation of ""Branded Fusion."" However, since ""Branded Lost"" is already applying its effect, the resolution of ""Branded Fusion"" will not occur, and your opponent will not be able to Fusion Summon. The effect of ""Branded Lost"" will not trigger because ""Branded Fusion"" did not resolve successfully.
+
+**Conclusion for Ⓐ**: ""Baronne de Fleur"" successfully negates ""Branded Fusion,"" preventing your opponent from Fusion Summoning and stopping any effects that would have triggered from ""Branded Lost.""
+
+#### Ⓑ: Activating ""Ash Blossom & Joyous Spring"" or ""Dominus Impulse"" in response
+If you activate ""Ash Blossom & Joyous Spring"" in response to ""Branded Fusion,"" it will negate the effect of ""Branded Fusion."" This means that your opponent will not be able to add a card from their deck to their hand, and thus, the effect of ""Branded Lost"" will not trigger because ""Branded Fusion"" did not resolve successfully.
+
+If you activate ""Dominus Impulse"" in response to ""Branded Fusion,"" it will also negate the activation of ""Branded Fusion."" Similar to ""Ash Blossom,"" this means that ""Branded Fusion"" will not resolve, and ""Branded Lost"" will not trigger.
+
+**Conclusion for Ⓑ**: Both ""Ash Blossom & Joyous Spring"" and ""Dominus Impulse"" successfully negate ""Branded Fusion,"" preventing your opponent from Fusion Summoning and stopping any effects that would have triggered from ""Branded Lost.""
+
+### Final Ruling:
+In both scenarios (Ⓐ and Ⓑ), the activation of the respective effects successfully negates ""Branded Fusion,"" preventing it from resolving and stopping any potential triggers from ""Branded Lost.""",[],12.7901,ok,
+12272,Chain|Damage Step|Flip,"If ""Madolche Puddingcess"" attacks a face-down Defense Position ""Ryko, Lightsworn Hunter"" on the opponent's field, can the『After damage calculation, if this card battles an opponent's monster: You can target 1 card your opponent controls; destroy that target』effect be activated?
+Also, if the effect of ""Madolche Puddingcess"" can be activated, is it chained to the Trigger Effect of ""Ryko, Lightsworn Hunter""?","If ""Madolche Puddingcess"" attacks a face-down Defense Position ""Ryko, Lightsworn Hunter"" on the opponent's field, the effect of ""Ryko, Lightsworn Hunter"" can be chained to the activation of the Trigger Effect of ""Ryko, Lightsworn Hunter"".","In this scenario, we need to analyze the interaction between ""Madolche Puddingcess"" and ""Ryko, Lightsworn Hunter"" during the battle phase.
+
+1. **Battle Interaction**: When ""Madolche Puddingcess"" attacks ""Ryko, Lightsworn Hunter,"" the battle occurs. Since ""Ryko"" is in face-down Defense Position, it is flipped face-up as a result of the battle. 
+
+2. **Damage Calculation**: During the Damage Step, the effects of monsters that are activated as a result of battle (like ""Ryko"") are not applicable until after damage calculation is complete. Therefore, ""Madolche Puddingcess"" will deal damage to ""Ryko,"" and if ""Ryko"" is destroyed, it will go to the graveyard.
+
+3. **Trigger Effects**: After damage calculation, ""Madolche Puddingcess"" has a Trigger Effect that activates: ""After damage calculation, if this card battles an opponent's monster: You can target 1 card your opponent controls; destroy that target."" This effect can indeed be activated because ""Madolche Puddingcess"" successfully battled an opponent's monster, which was ""Ryko.""
+
+4. **Timing of Effects**: The effect of ""Ryko, Lightsworn Hunter"" is also a Trigger Effect that activates after it is flipped face-up and after damage calculation. However, since ""Ryko"" is destroyed in this battle, it will not be able to activate its effect because it is no longer on the field to do so.
+
+5. **Chaining**: Since ""Madolche Puddingcess"" can activate its effect after damage calculation, it will not be chained to ""Ryko's"" effect because ""Ryko"" cannot activate its effect after being destroyed. Therefore, ""Madolche Puddingcess's"" effect will resolve independently.
+
+**Conclusion**: Yes, ""Madolche Puddingcess"" can activate its effect after battling ""Ryko, Lightsworn Hunter,"" but it will not be chained to ""Ryko's"" effect because ""Ryko"" is destroyed and cannot activate its effect.",[],8.5597,ok,
+23158,Spell,"The『●Until the end of the next turn after this card resolves, you can only activate 1 card or effect per turn, not counting the effects of Divine-Beast monsters』effect of ""Soul Crossing"" is being applied.
+
+In this situation, if the activation of my card or effect, except that of a Divine-Beast monster, is negated, can I once again activate a card or effect, except that of a Divine-Beast monster, until the end of the next turn?","You cannot.
+
+This is the same for ""Draw of Fate"", after the application of the『For the rest of this turn after this card resolves, you cannot Set Spells/Traps, also you can only activate one more card or effect』effect, even if the activation of a card or effect is negated, a card or effect cannot be activated again.","In the scenario you described, the effect of ""Soul Crossing"" is indeed in play, which states: ""Until the end of the next turn after this card resolves, you can only activate 1 card or effect per turn, not counting the effects of Divine-Beast monsters.""
+
+When you activate a card or effect and it is subsequently negated, the restriction imposed by ""Soul Crossing"" still applies. The key point here is that the restriction is based on the number of activations you can perform, not the success of those activations.
+
+To clarify:
+
+1. **Activation Count**: The effect of ""Soul Crossing"" limits you to activating only one card or effect per turn, excluding Divine-Beast monsters. This means that regardless of whether your activation is successful or negated, it counts as your one activation for that turn.
+
+2. **Negation**: If your first activation is negated, you cannot activate another card or effect (again, excluding Divine-Beast monsters) until the end of the next turn. The negation does not reset or remove the restriction imposed by ""Soul Crossing.""
+
+Therefore, the answer to your question is **no**; if your activation is negated, you cannot activate another card or effect until the end of the next turn. The restriction remains in effect regardless of the outcome of the activation.",[],6.1993,ok,
+12425,Chain|Normal/Token,"While a face-up ""Synthetic Seraphim"" is on the field, chained to the activation of a ""Magic Jammer"" that was activated to negate the activation of a Spell Card, a ""Seven Tools of the Bandit"" is activated. In this case, how many """"Synthetic Seraphim"" Token"" will be summoned due to the effect of ""Synthetic Seraphim""?","When a face-up ""Synthetic Seraphim"" is on the field and the activation of ""Magic Jammer"" is negated by ""Seven Tools of the Bandit"", a """"Synthetic Seraphim"" Token"" will be Special Summoned immediately after the resolution of ""Seven Tools of the Bandit"", but since the activation of ""Magic Jammer"" was negated, no (second) """"Synthetic Seraphim"" Token"" will be Special Summoned afterwards.
+
+Therefore, only 1 """"Synthetic Seraphim"" Token"" will be Special Summoned in the given situation.","To determine how many ""Synthetic Seraphim Tokens"" will be summoned when ""Synthetic Seraphim"" is on the field and ""Magic Jammer"" is activated to negate a Spell Card, followed by the activation of ""Seven Tools of the Bandit,"" we need to analyze the chain of events and the effects of the cards involved.
+
+1. **Understanding the Effects**:
+   - ""Synthetic Seraphim"" has an effect that states: ""When a Spell Card is activated, you can send 1 face-up Spell Card you control to the Graveyard to negate the activation, and if you do, Special Summon that many 'Synthetic Seraphim Tokens' (Level 1/Attribute: LIGHT/Type: Fairy) in Defense Position.""
+   - ""Magic Jammer"" is a Counter Trap that negates the activation of a Spell Card and destroys it.
+   - ""Seven Tools of the Bandit"" is also a Counter Trap that can negate the activation of a Trap Card by paying 1000 Life Points.
+
+2. **Chain Resolution**:
+   - When ""Magic Jammer"" is activated in response to a Spell Card, it goes on the chain. If ""Magic Jammer"" resolves successfully, it negates the Spell Card and destroys it.
+   - The effect of ""Synthetic Seraphim"" is triggered by the activation of a Spell Card. If ""Magic Jammer"" successfully negates that Spell Card, ""Synthetic Seraphim"" will not be able to activate its effect because the Spell Card's activation has been negated and thus does not resolve.
+
+3. **Activation of ""Seven Tools of the Bandit""**:
+   - If ""Seven Tools of the Bandit"" is activated in response to ""Magic Jammer,"" it will attempt to negate ""Magic Jammer."" If ""Seven Tools of the Bandit"" resolves successfully, ""Magic Jammer"" will be negated, and the original Spell Card will still be considered to have been activated (since ""Magic Jammer"" did not resolve successfully).
+   - However, if ""Seven Tools of the Bandit"" resolves and negates ""Magic Jammer,"" then ""Magic Jammer"" does not negate the Spell Card, and the Spell Card's activation resolves normally.
+
+4. **Final Outcome**:
+   - If ""Magic Jammer"" resolves and negates the Spell Card, ""Synthetic Seraphim"" does not get to activate its effect, resulting in **0 Tokens** being summoned.
+   - If ""Seven Tools of the Bandit"" resolves and negates ""Magic Jammer,"" then the Spell Card's activation resolves, allowing ""Synthetic Seraphim"" to activate its effect, resulting in **1 Token** being summoned (since it sends 1 face-up Spell Card to the Graveyard).
+
+In conclusion, the number of ""Synthetic Seraphim Tokens"" summoned depends on the resolution of the chain. If ""Magic Jammer"" resolves, **0 Tokens** are summoned. If ""Seven Tools of the Bandit"" resolves and negates ""Magic Jammer,"" **1 Token** is summoned.",[],10.8927,ok,
+12860,Chain|Spirit,"If the『●Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards』effect of ""Legacy of Yata-Garasu"" is activated, and when it resolves, there's no face-up Spirit monster on the opponent's field, what happens to the resolution?","If the『●Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards』effect of ""Legacy of Yata-Garasu"" is activated, even if there's no face-up Spirit monster on the opponent's field when it resolves, the resolution of the effect of ""Legacy of Yata-Garasu"" will be applied as normal, and cards can be drawn.","In this scenario, if you activate the effect of ""Legacy of Yata-Garasu,"" which states, ""●Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards,"" the activation condition must be met at the time of activation. 
+
+When you activate ""Legacy of Yata-Garasu,"" you are required to check if your opponent controls a face-up Spirit monster. If they do, the effect can be activated. However, if the condition is no longer met when the effect resolves (for example, if the Spirit monster was removed from the field or flipped face-down), the effect will not resolve successfully.
+
+According to the rules of the Yu-Gi-Oh! Trading Card Game, if an effect has specific activation conditions and those conditions are not met at the time of resolution, the effect will not resolve. In this case, since the effect of ""Legacy of Yata-Garasu"" specifically requires that your opponent controls a face-up Spirit monster at the time of activation and resolution, if that condition is not satisfied when it resolves, you will not draw any cards.
+
+Therefore, the final ruling is that if there is no face-up Spirit monster on your opponent's field when the effect resolves, you will not draw any cards, and the effect will simply not take place.",[],5.6632,ok,
+7840,Chain|Damage Step,"How do the effects activate, when a face-up ""Ally of Justice Catastor"" battles a face-up ""Neo-Spacian Grand Mole""?","The effects of ""Ally of Justice Catastor"" and ""Neo-Spacian Grand Mole"" are both activated at the Start of the Damage Step.
+
+In this situation, regardless of which monster is attacking, the effect of ""Ally of Justice Catastor"" is mandatory and will thus be chain link 1. The effect of ""Neo-Spacian Grand Mole"" is optional and can be activated as chain link 2.
+(When you resolve the effects, ""Neo-Spacian Grand Mole"" is returned to the hand and ""Ally of Justice Catastor"" is returned to the Extra Deck. The effect of ""Ally of Justice Catastor"" then resolves without effect.)","When a face-up ""Ally of Justice Catastor"" battles a face-up ""Neo-Spacian Grand Mole,"" the interaction between their effects occurs during the Damage Step of the battle.
+
+1. **Battle Mechanics**: When two monsters battle, the Damage Step is divided into several sub-steps. The effects of monsters that activate during the Damage Step are handled in a specific order.
+
+2. **Ally of Justice Catastor's Effect**: ""Ally of Justice Catastor"" has the effect that states: ""If this card battles a non-DARK monster, destroy that monster at the start of the Damage Step."" Since ""Neo-Spacian Grand Mole"" is a LIGHT monster (which is non-DARK), Catastor's effect will activate and resolve first.
+
+3. **Neo-Spacian Grand Mole's Effect**: ""Neo-Spacian Grand Mole"" has an effect that allows it to return a monster to the owner's hand if it battles. Specifically, it states: ""If this card battles a monster, at the start of the Damage Step, you can return that monster to the owner's hand."" However, this effect can only be activated if the monster it is battling is still on the field.
+
+4. **Resolution Order**: Since ""Ally of Justice Catastor"" destroys ""Neo-Spacian Grand Mole"" at the start of the Damage Step, Grand Mole's effect cannot activate because it is no longer on the field when its effect would resolve. The sequence is as follows:
+   - At the start of the Damage Step, Catastor's effect activates and destroys Grand Mole.
+   - Since Grand Mole is destroyed before it can resolve its effect, it cannot return Catastor to the owner's hand.
+
+In conclusion, ""Ally of Justice Catastor"" will destroy ""Neo-Spacian Grand Mole"" during the Damage Step, and Grand Mole will not be able to activate its effect to return Catastor to the hand because it is no longer on the field.",[],8.3058,ok,
+11730,Monster,"My opponent controls both ""Legendary Six Samurai - Shi En"" and ""Great Shogun Shien"". If I now activate a Spell/Trap Card, and its activation is negated by the effect of ""Legendary Six Samurai - Shi En"". Will I be unable to activate another Spell/Trap Card this turn due to ""Great Shogun Shien""'s『your opponent can only activate 1 Spell/Trap Card each turn』effect?","Since ""Legendary Six Samurai - Shi En"" negated the activation of your Spell Card, you can activate another Spell/Trap Card this turn, even though your opponent controls ""Great Shogun Shien"".
+
+This also applies of a Spell/Trap Card's activation is negated while any of the following effects are applying:
+● ""Medium of the Ice Barrier""'s ①st effect
+● ""Naturia Rosewhip""'s effect","In this scenario, you have two key cards in play: ""Legendary Six Samurai - Shi En"" and ""Great Shogun Shien."" Let's break down the effects of these cards and how they interact with your situation.
+
+1. **Legendary Six Samurai - Shi En** has the effect that states: ""When your opponent activates a Spell/Trap Card, you can negate the activation, and if you do, destroy that card."" This means that if you activate a Spell/Trap Card, Shi En can negate that activation.
+
+2. **Great Shogun Shien** has the effect that states: ""Your opponent can only activate 1 Spell/Trap Card each turn."" This means that regardless of the circumstances, you are limited to activating only one Spell/Trap Card during your turn.
+
+Now, let's analyze what happens when you activate a Spell/Trap Card:
+
+- You activate a Spell/Trap Card.
+- ""Legendary Six Samurai - Shi En"" negates the activation of that Spell/Trap Card.
+- Since Shi En has negated the activation, that Spell/Trap Card is not considered to have been successfully activated.
+
+However, because of the effect of ""Great Shogun Shien,"" you are still restricted to activating only one Spell/Trap Card during your turn. The key point here is that the effect of Shi En does not allow you to bypass the restriction imposed by Shogun Shien.
+
+Therefore, even though the activation of your Spell/Trap Card was negated, you have still only activated one Spell/Trap Card this turn (the one that was negated). As a result, you will not be able to activate any additional Spell/Trap Cards for the remainder of your turn due to the restriction from Great Shogun Shien.
+
+**Ruling:** You will not be able to activate another Spell/Trap Card this turn due to the effect of ""Great Shogun Shien,"" as you have already attempted to activate one Spell/Trap Card, which was negated by ""Legendary Six Samurai - Shi En.""",[],9.7270,ok,
+19485,Chain|Union,"I activate the effect of ""Heavy Mech Support Armor"" that equips it to a Machine-Type monster on my field, targeting ""XYZ-Dragon Cannon"". If ""Book of Moon"" is chained, and ""Heavy Mech Support Armor"" itself is changed to face-down Defense Position, how does its effect resolve?","In this scenario, when resolving the effect of ""Heavy Mech Support Armor"", if it has been changed to face-down Defense Position, the effect is not applied. (The face-down Defense Position ""Heavy Mech Support Armor"" remains in the Monster Zone.)","When you activate the effect of ""Heavy Mech Support Armor"" to equip it to ""XYZ-Dragon Cannon,"" you are targeting that Machine-Type monster. If your opponent chains ""Book of Moon"" to this activation, the following sequence occurs:
+
+1. **Chain Resolution**: ""Book of Moon"" resolves first because it is the last card activated. This means that ""XYZ-Dragon Cannon"" is flipped face-down and is now in Defense Position. However, ""Heavy Mech Support Armor"" is also affected by ""Book of Moon"" and is flipped face-down as well.
+
+2. **Effect Resolution**: After ""Book of Moon"" resolves, we return to the original effect of ""Heavy Mech Support Armor."" The effect of ""Heavy Mech Support Armor"" states that it can equip itself to a Machine-Type monster on the field. However, since ""XYZ-Dragon Cannon"" is now face-down, it is no longer considered a valid target for the effect of ""Heavy Mech Support Armor.""
+
+3. **Invalid Target**: Since ""XYZ-Dragon Cannon"" is face-down, it cannot be equipped with ""Heavy Mech Support Armor."" The effect of ""Heavy Mech Support Armor"" fails to resolve because it cannot equip itself to an invalid target. 
+
+4. **Final Outcome**: As a result, ""Heavy Mech Support Armor"" does not equip to ""XYZ-Dragon Cannon,"" and it remains in your hand or on the field (if it was already there) as a face-down card. The effect does not resolve successfully, and no equip action occurs.
+
+In summary, the effect of ""Heavy Mech Support Armor"" fails to resolve because its target, ""XYZ-Dragon Cannon,"" is no longer a valid target after being flipped face-down by ""Book of Moon.""",[],7.5845,ok,
+17553,Chain,"The Monster Effect of a ""Dragon Buster Destruction Sword"", ""Wizard Buster Destruction Sword"" or ""Robot Buster Destruction Sword"" was activated targeting a ""Buster Blader, the Destruction Swordmaster"".
+
+If the effects of ""Buster Blader, the Destruction Swordmaster"" are negated in a chain to that activation by the effect of the opponent's ""Effect Veiler"", how does this resolve?","Even in that case, the effects of ""Dragon Buster Destruction Sword"" and similar cards are applied normally and they are equipped.","In this scenario, we have the following cards involved:
+
+1. **Buster Blader, the Destruction Swordmaster** - This monster has an effect that allows it to gain attack points based on the number of Dragon monsters your opponent controls and has additional effects when equipped with a ""Destruction Sword"" card.
+
+2. **Dragon Buster Destruction Sword**, **Wizard Buster Destruction Sword**, or **Robot Buster Destruction Sword** - These are Equip Spell cards that have effects that activate when they are equipped to a monster, specifically targeting ""Buster Blader, the Destruction Swordmaster"".
+
+3. **Effect Veiler** - This card can be activated to negate the effects of a monster on the field until the end of the turn.
+
+### Chain Resolution
+
+1. **Activation of the Buster Sword Effect**: When you activate the effect of one of the ""Buster Destruction Sword"" cards targeting ""Buster Blader, the Destruction Swordmaster"", this starts a chain.
+
+2. **Response with Effect Veiler**: Your opponent responds by activating ""Effect Veiler"" targeting ""Buster Blader, the Destruction Swordmaster"". This also goes on the chain.
+
+3. **Chain Resolution**: The chain resolves in reverse order:
+   - First, ""Effect Veiler"" resolves, negating the effects of ""Buster Blader, the Destruction Swordmaster"" until the end of the turn.
+   - Next, the effect of the ""Buster Destruction Sword"" card resolves.
+
+### Final Outcome
+
+When the effect of the ""Buster Destruction Sword"" resolves, it will attempt to apply its effect to ""Buster Blader, the Destruction Swordmaster"". However, since the effects of ""Buster Blader, the Destruction Swordmaster"" are currently negated due to ""Effect Veiler"", it will not be able to gain any benefits from the ""Buster Destruction Sword"" card. 
+
+In summary, the resolution will result in the ""Buster Destruction Sword"" effect resolving, but it will not have any effect on ""Buster Blader, the Destruction Swordmaster"" because its effects are negated. Therefore, the ""Buster Blader, the Destruction Swordmaster"" will not gain any attack points or any other benefits from the equipped ""Buster Destruction Sword"" card while its effects are negated.",[],7.6839,ok,

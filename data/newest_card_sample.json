@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "id": 101305080,
+            "name": "Protective Stone Gardenscaping",
+            "type": "Trap Card",
+            "humanReadableCardType": "Continuous Trap",
+            "frameType": "trap",
+            "desc": "While you have 5 cards in your Spell & Trap Zone, any battle damage a player takes is halved, also once per turn, you can activate 1 Continuous Trap Card the turn it was Set. During the Standby Phase: You can reveal 5 Continuous Traps with different names from your Deck, your opponent randomly picks 1 for you to Set on your field, also shuffle the rest into the Deck. You can only use this effect of \"Protective Stone Gardenscaping\" once per turn.",
+            "race": "Continuous",
+            "ygoprodeck_url": "https://ygoprodeck.com/card/protective-stone-gardenscaping-15668",
+            "card_images": [
+                {
+                    "id": 101305080,
+                    "image_url": "https://images.ygoprodeck.com/images/cards/101305080.jpg",
+                    "image_url_small": "https://images.ygoprodeck.com/images/cards_small/101305080.jpg",
+                    "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/101305080.jpg"
+                }
+            ],
+            "card_prices": [
+                {
+                    "cardmarket_price": "0.00",
+                    "tcgplayer_price": "0.00",
+                    "ebay_price": "0.00",
+                    "amazon_price": "0.00",
+                    "coolstuffinc_price": "0.00"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "generated": "2026-04-06T04:37:26+00:00",
+        "current_rows": 1,
+        "total_rows": 14275,
+        "rows_remaining": 14274,
+        "total_pages": 14275,
+        "pages_remaining": 14274,
+        "next_page": "https://db.ygoprodeck.com/api/v7/cardinfo.php?sort=new&num=1&offset=1",
+        "next_page_offset": 1
+    }
+}

@@ -1,0 +1,841 @@
+ID,Card_Name,Question,Official_Answer,Category,Tags
+12527,Man-Eater Bug,"A ""Gladiator Beast Murmillo"" attacked a face-down Defense Position ""Man-Eater Bug"", and damage calculation confirmed that it was destroyed by the battle.
+
+Then, if the Trigger Effect of ""Man-Eater Bug"" is negated and destroyed by ""Gladiator Beast War Chariot"", at the end of the Battle Phase, can the『At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 ""Gladiator Beast"" monster from your Deck, except """"Gladiator Beast Murmillo""""』effect of ""Gladiator Beast Murmillo"" be activated?","In the situation of the question, the ""Man-Eater Bug"" that was confirmed to be destroyed by the battle was destroyed and sent to the Graveyard by the effect of ""Gladiator Beast War Chariot"", but the fact that ""Gladiator Beast Murmillo"" battled that ""Man-Eater Bug"" doesn't change.
+
+Therefore, the『At the end of the Battle Phase, if this card battled: You can shuffle this card into the Deck; Special Summon 1 ""Gladiator Beast"" monster from your Deck, except """"Gladiator Beast Murmillo""""』effect can be activated.","The ""Timing"" Challenge (When vs If)",Damage Step|Flip
+8596,Earthbound Immortal Chacu Challhua,"While my ""Earthbound Immortal Chacu Challhua"" is in face-up Defense Position, its effect prevents my opponent from conducting their Battle Phase.
+However, what happens if my opponent enters the Battle Phase of their turn, and a ""Earthbound Immortal Chacu Challhua"" on my field is then changed to face-up Defense Position during that Battle Phase? Does the Battle Phase end?","While ""Earthbound Immortal Chacu Challhua"" is in face-up Defense Position, its effect prevents your opponent from entering the Battle Phase.
+However, if your opponent has already entered the Battle Phase, even if a ""Earthbound Immortal Chacu Challhua"" on your side of the field is changed to face-up Defense Position, the current Battle Phase will not end.","The ""Timing"" Challenge (When vs If)",Monster
+8753,Final Attack Orders,"While ""Final Attack Orders"" is active, if a face-down Defense Position ""Umbral Horror Will o' the Wisp"" is attacked and then flipped face-up, but then changed to Attack Position by the effect of ""Final Attack Orders"" before damage calculation, can the effect of ""Umbral Horror Will o' the Wisp"" be activated after it is destroyed by battle and sent to the Graveyard?","The effect of ""Umbral Horror Will o' the Wisp"" will activate as long as it was in face-up Attack Position when it was considered destroyed by battle. Therefore, in this case, its effect will activate.","The ""Timing"" Challenge (When vs If)",Damage Step
+9685,Timeater,"During the opponent's turn, the『If this card destroys an opponent's monster by battle: Your opponent skips their next Main Phase 1』effect of the opponent's ""Timeater"" was activated, and the Duel proceed to my next turn.
+
+In this case, the Main Phase 1 is skipped, but how will the Phases proceed?","Even in the situation of the question, the Draw Phase and Standby Phase are conducted as normal.
+
+The Main Phase 1 afterwards will be skipped due to the effect of ""Timeater"", so if you would conduct the Battle Phase you proceed to the Battle Phase.
+(If you conducted the Battle Phase, after it ends proceed to the Main Phase 2 as normal.)
+
+If you do not conduct the Battle Phase then proceed to the End Phase.","The ""Timing"" Challenge (When vs If)",Monster
+21091,Amazoness Paladin,"My ""Amazoness Paladin"" destroyed the opponent's ""Red-Eyes Baby Dragon"" by battle.
+
+In that case, can I activate the『After damage calculation, if your ""Amazoness"" monster battled an opponent's monster while this card is already face-up in your Spell & Trap Zone: You can banish that opponent's monster』effect of ""Amazoness Onslaught""?","Even if your ""Amazoness"" monster destroys an opponent's monster by battle, the effect of ""Amazoness Onslaught"" can be activated after damage calculation.
+
+In that case, that opponent's monster that was destroyed by battle won't be sent to the Graveyard and will be banished after damage calculation.","The ""Timing"" Challenge (When vs If)",Damage Step
+10827,Cipher Soldier,"While the effect of my ""Skyscraper"" is applying, my ""Cipher Soldier"" battles an ""Elemental HERO"" on my opponent's field. Both of these effects that increase the ATK are applied while calculating damage. How do I proceed?","If the ATK of the ""Elemental HERO"" is higher, the effect of ""Cipher Soldier"" will activate During Damage Calculation. If the effect's resolution causes the ""Elemental HERO""'s ATK to be lower, you then apply the effect of ""Skyscraper"", and proceed to calculate damage.
+
+Furthermore, if the ATK of the ""Elemental HERO"" is lower, the effect of ""Skyscraper"" applies before ""Cipher Soldier""'s effect activates.","The ""Timing"" Challenge (When vs If)",Damage Step
+21065,Submarineroid,"During damage calculation when my ""Submarineroid"" is attacking directly with its own effect, I activate the effect of ""Megaroid City"" that switches its original ATK and DEF. In this case, are those switched ATK/DEF values treated as the new original ATK/DEF?","The original ATK and DEF switched by the effect of ""Megaroid City"" are considered the new original ATK/DEF values of your battling monster. In this situation, ""Submarineroid"" will have an original ATK of 1800 and original DEF of 800, so the battle damage it inflicts is 1800.","The ""Timing"" Challenge (When vs If)",Damage Step
+16027,Timaeus the Knight of Destiny,"""Timaeus the Knight of Destiny"" is face-up on my side of the field, also a face-up Attack Position Sheep Token is on my opponent's side of the field. In this situation, if ""Timaeus the Knight of Destiny"" battles the Sheep Token, can I activate its effect during damage calculation?","You cannot. In this situation, if the only other monsters on the field have 0 ATK, ""Timaeus the Knight of Destiny"" will already have ATK and DEF equal to that ATK. Therefore, you cannot activate its effect. (In this case, since both ""Timaeus the Knight of Destiny"" and the Sheep Token have 0 ATK, neither is destroyed by battle.)","The ""Timing"" Challenge (When vs If)",Damage Step
+16828,Call of the Haunted,"My Dragon Synchro Monster equipped with ""Red Cocoon"" attacks, and the effect of ""Red Cocoon"" applies, causing my opponent's monsters to have their effects negated. However, my opponent activates ""Call of the Haunted"", and a replay occurs.
+
+If I choose to cancel the attack, what happens to ""Red Cocoon""'s effect that negates my opponent's monsters' effects until the end of the Damage Step?","If the attacking monster equipped with ""Red Cocoon"" cancels its attack during a replay, the effect of ""Red Cocoon"" will no longer apply, and your opponent's monsters' effects will no longer be negated.","The ""Timing"" Challenge (When vs If)",Replay
+8731,Decode Talker,"Your opponent controls a ""Decode Talker"" in the Extra Monster Zone and you control a ""Auram the World Chalice Blademaster"" in your Main Monster Zone in the same column.
+
+In this situation, if your opponent's ""Decode Talker"" attacks your ""Auram the World Chalice Blademaster"" so that it would be destroyed by battle, can you apply the second effect of ""World Legacy's Heart"" in the Graveyard?","Yes, you can apply the effect of ""World Legacy's Heart"" even if your monster is linked to your opponent's monster.","The ""Timing"" Challenge (When vs If)",Damage Step
+17895,Compulsory Evacuation Device,"When ""Blue-Eyes Twin Burst Dragon"" performs its second attack on an opponent's monster, if ""Compulsory Evacuation Device"" is activated during the Battle Step so that that opponent's monster is no longer on the field, what happens with the attack?","In the proposed scenario, when ""Blue-Eyes Twin Burst Dragon"" performs its second attack, if a replay is triggered and the opponent does not control any monsters, since it is not possible to choose the opponent as a new attack target, that ""Blue-Eyes Twin Burst Dragon"" does not perform Damage Calculation as a result and that second attack stops.","The ""Timing"" Challenge (When vs If)",Replay
+15831,Jinzo,"""Reflect Bounder"" and ""Jinzo"" are face-up in my opponent's Monster Zone.
+
+When the opponent's ""Jinzo"" declares an attack, if I activate ""Roulette Spider"" and the『4: Choose 1 other monster your opponent controls, change the attack target to it, and perform damage calculation』effect is applied, how will it resolve?","In the situation of the question, the attack target of the opponent's ""Jinzo"" is changed from a monster on your field (or the player) to the opponent's ""Reflect Bounder"", and damage calculation is performed due to that effect's resolution.
+
+The opponent's monsters battle each other, and the difference between the 2400 ATK of ""Jinzo"" and the 1700 ATK of ""Reflect Bounder"", 700, will be inflicted to the opponent as battle damage.
+(In this case, since it's not being attacked by an opponent's monster, the effect of ""Reflect Bounder"" doesn't activate.)","The ""Timing"" Challenge (When vs If)",Damage Step
+13734,Blue-Eyes White Dragon,"""Temple of the Mind's Eye"" is face-up in the Field Zone.
+
+If my opponent's ""Amazoness Swords Woman"" attacks my face-up Attack Position ""Blue-Eyes White Dragon"", what happens to the battle damage?","In this scenario, your ""Blue-Eyes White Dragon"" battles your opponent's ""Amazoness Swords Woman"", and the 1500 damage your opponent would take is inflicted to you due to the effect of ""Amazoness Swords Woman"".
+
+However, since the effect of ""Temple of the Mind's Eye"" is applying, that damage becomes 1000.","The ""Timing"" Challenge (When vs If)",Damage Step
+8325,The Weather Painter Thunder,"Can the effect of a ""The Weather Painter Thunder"" gained from ""The Weather Thundery Canvas"" be activated when it battles an opponent's face-down Defense Position monster?","Even if your ""The Weather"" monster that gained the effect from ""The Weather Thundery Canvas"" battles an opponent's face-down Defense Position monster, you can activate that effect at the start of the Damage Step.
+
+In that case, since the opponent's monster returns to the hand before it is flipped face-up, that monster's effects will not activate if it is a Flip monster.","The ""Timing"" Challenge (When vs If)",Damage Step
+279,Amazoness Spy,"When my ""Amazoness Spy"" is destroyed by battle and sent to the Graveyard, I activate its effect. When targeting an ""Amazoness"" monster in my Graveyard, do I also declare whether I'm returning it to my hand or to my Deck?","The second effect of ""Amazoness Spy"" targets, but you choose to return it to either your hand or Deck when the effect resolves. You do not need to declare where you are returning the targeted monster to when activating the effect.
+Also, if the targeted monster is ""Amazoness Empress"" or ""Amazoness Pet Liger"", it returns to the Extra Deck.","The ""Timing"" Challenge (When vs If)",Damage Step
+19847,Dimension Wall,"When I declare a direct attack with ""Destiny HERO - Decider"", my opponent activates ""Dimension Wall"". In this case, can I activate the effect of a ""Destiny HERO - Dynatag"" in my hand during damage calculation?","In this scenario, since the effect of ""Dimension Wall"" has been applied, you would take 1600 battle damage from the attack declared by your ""Destiny HERO - Decider"", so you can activate the effect of ""Destiny HERO - Dynatag"" during damage calculation. In that case, battle damage from this battle becomes 0, and each player takes 1000 damage.","The ""Timing"" Challenge (When vs If)",Damage Step
+12160,Amazoness Swords Woman,"While I control both ""Swallowtail Butterspy"" and ""Amazoness Swords Woman"", my opponent's monster attacks ""Amazoness Swords Woman"", and ""Amazoness Swords Woman""'s effect causes my opponent to take the battle damage. Can I now activate the effect of ""Swallowtail Butterspy""?","If the effect of ""Amazoness Swords Woman"" inflicts Battle Damage on your opponent, the effect of ""Swallowtail Butterspy"" cannot be activated.","The ""Timing"" Challenge (When vs If)",Damage Step
+10680,Vylon Stella,"If a monster equipped with ""Vylon Stella"" is destroyed by battle, can I activate ""Vylon Stella""'s effect that destroys the opponent's battling monster?","If a monster equipped with ""Vylon Stella"" is destroyed, and sent to the Graveyard, it is no longer equipped with ""Vylon Stella"" as a result. Therefore, ""Vylon Stella""'s effect cannot be activated.","The ""Timing"" Challenge (When vs If)",Damage Step
+13508,Skill Drain,"If a WATER monster's effect is activated by sending ""Atlantean Dragoons"", ""Atlantean Marksman"", ""Atlantean Heavy Infantry"", or ""Neptabyss, the Atlantean Prince"", to the Graveyard, and that effect's activation is then negated by ""Divine Wrath"", or the effect is negated by ""Skill Drain"", will the effect of ""Atlantean Dragoons"" etc. activate?","Yes, it will.
+If a WATER monster's effect is activated by sending ""Atlantean Dragoons"" etc. to the Graveyard, even if that effect's activation or effect is later negated by ""Divine Wrath"" or ""Skill Drain"", ""Atlantean Dragoons"" etc. is still considered to have been『sent to the Graveyard to activate a WATER monster's effect.』
+
+This also applies to the following cards' effects.
+
+Effects that can be activated『if this card is sent to the Graveyard to activate a WATER monster's effect:』
+● ""Deep Sea Sentry""
+● ""Mermail Shadow Squad""
+
+Effects that can be activated『if a WATER monster is sent to the Graveyard to activate a card's effect:』
+● ""Mermail King - Neptabyss""
+
+Effects that can be activated『if this card is sent to the Graveyard to activate a Dragon monster's effect:』
+● ""Armed Dragon Thunder LV3""
+● ""Armed Dragon Thunder LV5""
+● ""Armed Dragon Thunder LV7""
+
+Effects that can be activated『if this card is sent to the Graveyard to activate a monster effect:』
+● ""Butterfly Fish""
+● ""Susurrus of the Sinful Spoils""
+● ""Beware the White Forest""
+● ""Tales of the White Forest""
+● ""Woes of the White Forest""
+● ""Sinful Spoils of the White Forest""
+● ""Azamina Aphes""
+● ""Scourge of the White Forest""
+
+Effects that can be activated if a card『was sent there to activate the effect of """"Fallen of Albaz"""" this turn:』
+● ""Branded in White""
+● ""Screams of the Branded""
+● ""Branded Bond""
+● ""Judgment of the Branded""
+
+Effects that can be activated『if this card is detached from an Xyz Monster and sent to the Graveyard to activate that monster's effect:』
+● ""Heavy Freight Train Derricrane""
+● ""Performage Cup Tricker""
+
+Effects that can be activated『if this card is detached from an Xyz Monster to activate that monster's effect:』
+● ""Zubababa Knight""
+● ""Gagaga Ganbara Knight""
+● ""Gogogo Goblindbergh""
+● ""Dodododo Warrior""
+● ""Galaxy-Eyes Afterglow Dragon""
+
+Effects that can be activated『if a card(s) is sent from your hand to the Graveyard to activate your Normal Trap Card or your ""Labrynth"" card or effect:』
+● ""Labrynth Cooclock""
+
+Effects that can be activated if a card『was sent there to activate this effect this turn:』
+● ""Dinowrestler Martial Anga""
+
+Effects that can be activated『if you reveal a card(s) in your hand to activate a card or effect:』
+● ""Vanquish Soul Jiaolong""
+
+Effects that can be activated『if a Spell/Trap(s) is sent to the Graveyard to activate a card or effect:』
+● ""Play the Diabell""
+
+Effects that can be activated if a card is『sent to the Graveyard to activate the effect of """"Artmage Academic Arcane Arts Acropolis"""":』
+● ""Artmage Movement -Pedigree-""
+● ""Artmage Peripeteia -Turmoil-""",Chains & Spell Speeds,Monster
+18734,Pop-Up,"Is it possible to activate ""Magical Mid-Breaker Field"" when resolving ""Pop-Up""?","""Magical Mid-Breaker Field"" is a Field Spell which can only be activated at the start of your Main Phase 1 or 2.
+
+If ""Pop-Up"" was activated at the start of your Main Phase 1 or 2, you can activate ""Magical Mid-Breaker Field"" from your Deck when resolving ""Pop-Up"".",Chains & Spell Speeds,Spell
+23277,Demise of the Land,"Can ""Soul Binding Gate"" be activated by the effects of ""Metaverse"" or ""Demise of the Land""?","""Soul Binding Gate"" can be activated with the effects of ""Metaverse"" and ""Demise of the Land"", but you must still meet its requirements of controlling no monsters and Set Spell/Trap you control being destroyed by card effect this turn.
+
+Therefore, if you control no monsters and a Set Spell/Trap you control was destroyed by card effect this turn, you can activate ""Soul Binding Gate"" with the effect of ""Metaverse"". Also, when the opponent Special Summons a monster(s) during a turn in which a Set Spell/Trap you control was destroyed by card effect, and you control no monsters, you can activate ""Soul Binding Gate"" with ""Demise of the Land""'s effect.",Chains & Spell Speeds,Trap
+23472,Magical Meltdown,"While my opponent's ""Branded Lost"" is applying its effect, they activate ""Branded Fusion"". What happens if I activate:
+
+Ⓐ: ""Baronne de Fleur""'s effect in response?
+Ⓑ: The effect of ""Ash Blossom & Joyous Spring"", or ""Dominus Impulse"", in response?","What happens depends on whether the effect in question attempts to negate the activation of the effect that includes Fusion Summoning, or not. If it does, that effect will not apply due to ""Branded Lost""'s effect, and the activation will not be negated.
+
+Therefore:
+Ⓐ: ""Branded Fusion"" resolves normally. (""Baronne de Fleur""'s effect would negate ""Branded Fusion""'s activation. Therefore, it is not applied.)
+Ⓑ: ""Branded Fusion""'s effect is negated. (The effects of ""Ash Blossom & Joyous Spring"" and ""Dominus Impulse"" do not attempt to negate its activation.)
+
+This also applies to the following effects, which prevent the activation of your effects that include an effect to Fusion Summon from being negated:
+● ""Magical Meltdown""'s ②nd effect
+● ""Dragonroid""'s 2nd bulleted (●) effect",Chains & Spell Speeds,Monster
+12272,"Ryko, Lightsworn Hunter","If ""Madolche Puddingcess"" attacks a face-down Defense Position ""Ryko, Lightsworn Hunter"" on the opponent's field, can the『After damage calculation, if this card battles an opponent's monster: You can target 1 card your opponent controls; destroy that target』effect be activated?
+Also, if the effect of ""Madolche Puddingcess"" can be activated, is it chained to the Trigger Effect of ""Ryko, Lightsworn Hunter""?","If ""Madolche Puddingcess"" attacks a face-down Defense Position ""Ryko, Lightsworn Hunter"" on the opponent's field, the effect of ""Ryko, Lightsworn Hunter"" can be chained to the activation of the Trigger Effect of ""Ryko, Lightsworn Hunter"".",Chains & Spell Speeds,Chain|Damage Step|Flip
+23158,Draw of Fate,"The『●Until the end of the next turn after this card resolves, you can only activate 1 card or effect per turn, not counting the effects of Divine-Beast monsters』effect of ""Soul Crossing"" is being applied.
+
+In this situation, if the activation of my card or effect, except that of a Divine-Beast monster, is negated, can I once again activate a card or effect, except that of a Divine-Beast monster, until the end of the next turn?","You cannot.
+
+This is the same for ""Draw of Fate"", after the application of the『For the rest of this turn after this card resolves, you cannot Set Spells/Traps, also you can only activate one more card or effect』effect, even if the activation of a card or effect is negated, a card or effect cannot be activated again.",Chains & Spell Speeds,Spell
+12425,Magic Jammer,"While a face-up ""Synthetic Seraphim"" is on the field, chained to the activation of a ""Magic Jammer"" that was activated to negate the activation of a Spell Card, a ""Seven Tools of the Bandit"" is activated. In this case, how many """"Synthetic Seraphim"" Token"" will be summoned due to the effect of ""Synthetic Seraphim""?","When a face-up ""Synthetic Seraphim"" is on the field and the activation of ""Magic Jammer"" is negated by ""Seven Tools of the Bandit"", a """"Synthetic Seraphim"" Token"" will be Special Summoned immediately after the resolution of ""Seven Tools of the Bandit"", but since the activation of ""Magic Jammer"" was negated, no (second) """"Synthetic Seraphim"" Token"" will be Special Summoned afterwards.
+
+Therefore, only 1 """"Synthetic Seraphim"" Token"" will be Special Summoned in the given situation.",Chains & Spell Speeds,Chain|Normal/Token
+12860,Legacy of Yata-Garasu,"If the『●Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards』effect of ""Legacy of Yata-Garasu"" is activated, and when it resolves, there's no face-up Spirit monster on the opponent's field, what happens to the resolution?","If the『●Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards』effect of ""Legacy of Yata-Garasu"" is activated, even if there's no face-up Spirit monster on the opponent's field when it resolves, the resolution of the effect of ""Legacy of Yata-Garasu"" will be applied as normal, and cards can be drawn.",Chains & Spell Speeds,Chain|Spirit
+7840,Neo-Spacian Grand Mole,"How do the effects activate, when a face-up ""Ally of Justice Catastor"" battles a face-up ""Neo-Spacian Grand Mole""?","The effects of ""Ally of Justice Catastor"" and ""Neo-Spacian Grand Mole"" are both activated at the Start of the Damage Step.
+
+In this situation, regardless of which monster is attacking, the effect of ""Ally of Justice Catastor"" is mandatory and will thus be chain link 1. The effect of ""Neo-Spacian Grand Mole"" is optional and can be activated as chain link 2.
+(When you resolve the effects, ""Neo-Spacian Grand Mole"" is returned to the hand and ""Ally of Justice Catastor"" is returned to the Extra Deck. The effect of ""Ally of Justice Catastor"" then resolves without effect.)",Chains & Spell Speeds,Chain|Damage Step
+11730,Great Shogun Shien,"My opponent controls both ""Legendary Six Samurai - Shi En"" and ""Great Shogun Shien"". If I now activate a Spell/Trap Card, and its activation is negated by the effect of ""Legendary Six Samurai - Shi En"". Will I be unable to activate another Spell/Trap Card this turn due to ""Great Shogun Shien""'s『your opponent can only activate 1 Spell/Trap Card each turn』effect?","Since ""Legendary Six Samurai - Shi En"" negated the activation of your Spell Card, you can activate another Spell/Trap Card this turn, even though your opponent controls ""Great Shogun Shien"".
+
+This also applies of a Spell/Trap Card's activation is negated while any of the following effects are applying:
+● ""Medium of the Ice Barrier""'s ①st effect
+● ""Naturia Rosewhip""'s effect",Chains & Spell Speeds,Monster
+19485,Book of Moon,"I activate the effect of ""Heavy Mech Support Armor"" that equips it to a Machine-Type monster on my field, targeting ""XYZ-Dragon Cannon"". If ""Book of Moon"" is chained, and ""Heavy Mech Support Armor"" itself is changed to face-down Defense Position, how does its effect resolve?","In this scenario, when resolving the effect of ""Heavy Mech Support Armor"", if it has been changed to face-down Defense Position, the effect is not applied. (The face-down Defense Position ""Heavy Mech Support Armor"" remains in the Monster Zone.)",Chains & Spell Speeds,Chain|Union
+17553,Buster Blader,"The Monster Effect of a ""Dragon Buster Destruction Sword"", ""Wizard Buster Destruction Sword"" or ""Robot Buster Destruction Sword"" was activated targeting a ""Buster Blader, the Destruction Swordmaster"".
+
+If the effects of ""Buster Blader, the Destruction Swordmaster"" are negated in a chain to that activation by the effect of the opponent's ""Effect Veiler"", how does this resolve?","Even in that case, the effects of ""Dragon Buster Destruction Sword"" and similar cards are applied normally and they are equipped.",Chains & Spell Speeds,Chain
+23002,Vanity's Emptiness,"How does the effect of ""Indulged Darklord"" resolve when ""Vanity's Emptiness"" is chained to its activation?","In this situation, since the effect of ""Vanity's Emptiness"" is applied and neither player can Special Summon monsters, the effect of ""Indulged Darklord"" cannot be applied.
+(The complete effect cannot be applied, including taking 2 ""Darklord"" monsters with different Levels from your hand and/or Deck, except """"Indulged Darklord"""".)",Chains & Spell Speeds,Chain|Monster
+6407,Cursed Seal of the Forbidden Spell,"The opponent activated ""Twin Twisters"" as Chain Link 1 and as Chain Link 2.
+
+In this situation, if I activate ""Cursed Seal of the Forbidden Spell"" and the『negate the activation, and if you do, destroy it, and if you do that, your opponent cannot activate Spell Cards with that name for the rest of this Duel』effect is applied, what happens to the resolution of the 2 ""Twin Twisters"" that the opponent activated?","In the situation of the question, due to the effect of ""Cursed Seal of the Forbidden Spell"" activated as Chain Link 3, the activation of the opponent's ""Twin Twisters"" activated as Chain Link 2 is negated, and that effect's resolution isn't applied.
+
+In this occasion, the『your opponent cannot activate Spell Cards with that name for the rest of this Duel』effect of ""Cursed Seal of the Forbidden Spell"" is applied, but this is an effect that makes the player unable to activate cards, or the effects of cards, of the card destroyed with this effect, or of cards with the same name as the destroyed card, so the effect resolution of the ""Twin Twisters"" that has already been activated as Chain Link 1 won't be negated.
+
+Therefore, the resolution of the effect of the ""Twin Twisters"" activated by the opponent as Chain Link 1 will be performed as normal.
+
+(TL note: Yes, the original JP does say that even the effects of the destroyed card or of cards with the same name cannot be activated, not just the card activation. However, the card's FAQ clarifies that the destroyed card's effect that activates in the Graveyard can be used as normal, and both the current OCG text and the updated JP text on MD don't say anything about it also preventing the activation of effects, so most likely this is just a small error in this particular Q&A.)",Chains & Spell Speeds,Chain
+9132,Doomcaliber Knight,"During Damage Calculation while battling with ""Doomcaliber Knight"", if the opponent activates the effect of ""Bujingi Crane"", what happens with the Damage Calculation?","The effect of ""Doomcaliber Knight"" is activated in a chain to the effect of ""Bujingi Crane"", tributing itself.
+In this case, Damage Calculation is not performed and the Damage Step ends.
+
+Also, a replay is not triggered.
+
+(This answer applies starting March 21st, 2014.)",Chains & Spell Speeds,Chain|Damage Step
+10107,Summoner of Illusions,"If ""Book of Moon"" is chained to the Trigger Effect of ""Summoner of Illusions"" and ""Summoner of Illusions"" is changed to face-down Defense Position, can the ""Summoner of Illusions"" itself that was changed to face-down Defense Position be Tributed when resolving the effect of ""Summoner of Illusions""?","Even if ""Summoner of Illusions"" itself has been flipped face-down when the effect resolves, that ""Summoner of Illusions"" cannot be Tributed.",Chains & Spell Speeds,Chain|Flip
+12582,Cyberse Wizard,"The only card in my Spell & Trap Zone is a Set ""Altergeist Protocol"". When my opponent declares an attack with ""Cyberse Wizard"", if I activate my Set ""Altergeist Protocol"", can I chain the effect of ""Altergeist Kunquery"" in my hand?","In this scenario, if ""Altergeist Protocol"" is activated at the time the attack is declared, there will be a face-up ""Altergeist"" card on your field, so you can chain the effect of ""Altergeist Kunquery"".",Chains & Spell Speeds,Chain
+13374,Mirror Force,"If there are 3 copies of ""The Phantom Knights of Shadow Veil"" in your Graveyard, can their effects be activated in a chain?
+
+Also, if you want to activate ""Mirror Force"" when the opponent declares a direct attack, how is the chain built?","If there are 3 copies of ""The Phantom Knights of Shadow Veil"" in your Graveyard, their effects can be activated in a chain from a single direct attack.
+
+Furthermore, if you want to activate ""Mirror Force"" when the opponent declares that direct attack forming a chain with ""The Phantom Knights of Shadow Veil"", the chain can be built in any order you wish.
+
+(For example, you can build the following chain)
+
+Chain Link 1: ""Mirror Force""
+
+Chain Link 2: the 1st ""The Phantom Knights of Shadow Veil""
+
+Chain Link 3: the 2nd ""The Phantom Knights of Shadow Veil""
+
+Chain Link 4: the 3rd ""The Phantom Knights of Shadow Veil""",Chains & Spell Speeds,Chain
+13782,Torrential Tribute,"You Normal Summoned ""Goblindbergh"" in your turn.
+
+At this time, the effects of the Normal Summoned ""Goblindbergh"" and a ""Kagetokage"" in the hand were activated and the opponent activates ""Torrential Tribute"".
+
+In this case, how does each effect resolve?","In the proposed scenario, first of all, it is decided whether the effect of the Normal Summoned ""Goblindbergh"" is activated or not.
+
+In this case, the effect of ""Goblindbergh"" is activated. Since both players want to activate other card effects, according to the chaining rules, the next player who can activate cards is the opponent, who activates ""Torrential Tribute"" first.
+
+Finally, the effect of the ""Kagetokage"" in the hand can be activated.
+
+Therefore, in this case, the following chain is formed.
+
+Chain link 1: The activation of the effect of your ""Goblindbergh"".
+
+Chain link 2: The activation of the opponent's ""Torrential Tribute""
+
+Chain link 3: The activation of the effect of your ""Kagetokage"".",Chains & Spell Speeds,Chain
+15947,Stardust Dragon,"Can the activation of the effect of ""Prediction Princess Astromorrigan"" be negated by ""Stardust Dragon""?","The effect of ""Stardust Dragon"" cannot be chained to that of ""Prediction Princess Astromorrigan"". Also, since the application of the effect during the End Phase does not create a chain, the effect of ""Stardust Dragon"" cannot be activated at that time.",Chains & Spell Speeds,Chain|Flip
+23202,Rare Metalmorph,"I have activated the effect of ""Graydle Impact"" that destroys two cards on the field by targeting a Machine-type monster my opponent controls. My opponent activates ""Rare Metalmorph"" in response, targeting that same monster. What happens to ""Graydle Impact""'s effect, and how long will it be negated for?","In this situation, the effect of that Chain Link formed by the activation of ""Graydle Impact""'s effect is negated, and neither of the two targeted cards is destroyed. Additionally, only this one Chain Link's effect is negated, not the effect of ""Graydle Impact"" itself. Thus, at a later point, you will be able to activate and resolve the effects of that ""Graydle Impact"" as usual.",Chains & Spell Speeds,Chain|Trap
+13921,Burial from a Different Dimension,"If the effect of ""Ritual Beast Tamer Wen"" is activated, targeting ""Spiritual Beast Pettlephin"", but ""Burial from a Different Dimension"" is chained, targeting and returning that ""Spiritual Beast Pettlephin"" to the Graveyard, is it still Special Summoned?","If the targeted ""Spiritual Beast Pettlephin"" is no longer banished, it cannot be Special Summoned.",Chains & Spell Speeds,Chain
+19731,Raigeki Break,"I control a face-up ""Destiny HERO - Defender"" and ""Destiny HERO - Dangerous"", and have ""Destiny HERO - Diamond Dude"", ""Destiny HERO - Dasher"", and ""Destiny HERO - Fear Monger"" in my Graveyard.
+
+Then, I activate the effect of my ""Destiny HERO - Dangerous"", but my opponent's ""Raigeki Break"" resolves in response, destroying that same ""Destiny HERO - Dangerous"". What happens to ""Destiny HERO - Dangerous""' effect?","The effect of ""Destiny HERO - Dangerous"" will resolve normally even if ""Destiny HERO - Dangerous"" itself has been destroyed and sent to the Graveyard.
+
+In the given situation, there are 4 ""Destiny HERO"" monsters in your Graveyard, including the ""Destiny HERO - Dangerous"" that was destroyed by ""Raigeki Break"". Your face-up ""Destiny HERO - Defender"" will therefore gain 800 ATK.
+
+(TL Note: Yes, I think they forgot that Dangerous' effect would send another Destiny HERO to the Graveyard when it resolves.)",Chains & Spell Speeds,Chain
+79,D.D. Warrior,"My ""D.D. Warrior"" attacked a face-down ""Penguin Soldier"" and destroyed it by battle. How will each effect be handled?","In this scenario, both the effects of ""D.D. Warrior"" and ""Penguin Soldier"" will activate after damage calculation, so they will be placed on a Chain.
+
+First, the mandatory effect of ""D.D. Warrior"" will be activated as Chain Link 1. If the opponent chooses to activate the effect of ""Penguin Soldier"", it will be activated as Chain Link 2, and this Chain will resolve normally. (Note that when targeting monsters for the effect of ""Penguin Soldier"", the ""Penguin Soldier"" that was destroyed by battle cannot be targeted).
+
+Even if ""D.D. Warrior"" is targeted and returned to the hand by ""Penguin Soldier""'s effect, ""Penguin Soldier"" will still be banished by the effect of ""D.D. Warrior"". (If ""D.D. Warrior"" is not targeted by ""Penguin Soldier""'s effect, then both ""D.D. Warrior"" and ""Penguin Soldier"" will be banished normally).",Chains & Spell Speeds,Chain
+7030,Elemental Mistress Doriado,"""Genex Ally Triforce"" is Synchro Summoned using ""Genex Ally Birdman"" and ""Elemental Mistress Doriado"" as Synchro Materials. In that case, which ""●"" effects of ""Genex Ally Triforce"" will be applied?","In this scenario, since the effect of ""Elemental Mistress Doriado"" also treats it as a WIND, WATER, FIRE, and EARTH monster, ""Genex Ally Triforce"" is treated as having been Synchro Summoned using LIGHT, WIND, WATER, FIRE, and EARTH non-Tuner Synchro Materials. Therefore, the ""● EARTH:"", ""● FIRE:"", and ""● LIGHT:"" effects can all be applied.",Complex Rulings & Floodgates,Ritual|Synchro
+23921,Phantom of Chaos,"The effect of ""Phantom of Chaos"", or ""Blackwing - Aurora the Northern Lights"", which has its original ATK become another monster's, has resolved. What happens if the effects of ""Phantom of Chaos"" respectively ""Blackwing - Aurora the Northern Lights"" are now negated?","""Phantom of Chaos"" respectively ""Blackwing - Aurora the Northern Lights"" will continue to be treated as a card with the chosen monster's name, original ATK, and effects. However, its effects (including the gained effects) will be negated as usual.
+(Even if the effects of ""Phantom of Chaos"" respectively ""Blackwing - Aurora the Northern Lights"" are negated, the gained name, original ATK, and effects are not lost.)",Complex Rulings & Floodgates,Monster
+9322,Dark Lucius LV4,"If a ""Dark Lucius LV6"" that was Special Summoned by the effect of ""Dark Lucius LV4"" destroys an opponent's ""Mara of the Nordic Alfar"" by battle, will its effect that negates the effects of monsters it destroys by battle be applied? Furthermore, during the Standby Phase of my next turn, can I activate the effect of ""Dark Lucius LV6"" that Special Summons a ""Dark Lucius LV8"" from my hand or Deck?","""Mara of the Nordic Alfar"" is an Effect Monster, even though it has no monster effects. Therefore, even if ""Dark Lucius LV6"" destroys an opponent's ""Mara of the Nordic Alfar"" by battle, the effect that negates the effects of monsters it destroys by battle is applied normally.
+
+Furthermore, the effect of ""Dark Lucius LV6"" that Special Summons a ""Dark Lucius LV8"" can be activated during your next Standby Phase.",Complex Rulings & Floodgates,Monster
+19576,Crystron Prasiortle,"If there are 5 monsters in my Main Monster Zones, can I activate the effect of ""Crystron Prasiortle"", ""Crystron Smiger"", ""Crystron Thystvern"", or ""Crystron Rosenix"" that destroys a face-up card on my field and Special Summons a ""Crystron"" Tuner monster from my Deck?","The effect of a monster such as ""Crystron Prasiortle"" Special Summons a ""Crystron"" Tuner monster from your Deck, so if there are already 5 monsters in your Main Monster Zones, you can only activate the effect by targeting a face-up monster in your Main Monster Zone. (Face-up cards in your Spell & Trap Zones, Field Zone, or the Extra Monster Zone cannot be targeted.)",Complex Rulings & Floodgates,Monster
+7022,Nekroz Cycle,"Ⓐ: When resolving the effect of ""Throne of the Archfiends"", can you Tribute a ""Archfiend Emperor"" in the hand, and Ritual Summon that ""Archfiend Emperor"" from the Graveyard?
+
+Ⓑ: When resolving the effect of ""Throne of the Archfiends"", can you Tribute a ""Archfiend Emperor"" on the field, and Ritual Summon that ""Archfiend Emperor"" from the face-up Extra Deck?
+
+Ⓒ: While an『any card sent to the Graveyard is banished instead』effect is applying, can you activate ""Throne of the Archfiends"", Tribute a ""Archfiend Emperor"" in the hand, and Ritual Summon that ""Archfiend Emperor"" from banishment?","None of those can be done.
+
+To perform a Ritual Summon, you choose 1 ""Archfiend"" Ritual Monster in your hand, Extra Deck (face-up), Graveyard, or banishment, Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster, and perform the Ritual Summon.
+Therefore, for example, if a ""Archfiend Emperor"" in the hand is chosen to be Ritual Summoned, that ""Archfiend Emperor"" itself cannot be Tributed. (Another monster(s) in your hand or field will be Tributed to perform the Ritual Summon.)
+
+This is the same for the following cards' effects if you're Ritual Summoning from the Graveyard, face-up Extra Deck, or banishment:
+● ""Revendread Origin""'s ①st effect
+● ""Revendread Evolution""'s effect
+● ""Ravenous Vendread""'s effect
+● ""Meteoroa Drytron""'s ②nd effect
+● ""Meteonis Drytron""'s ①st effect
+● ""Underworld Ritual of Prediction""'s ①st effect
+● ""Dogmatikamacabre""'s effect
+● ""Odd-Eyes Advent""'s effect
+● ""Mitsurugi Mirror""'s ①st effect
+● ""Nekroz Cycle""'s ①st effect
+● ""Nekroz Divinemirror""'s ①st effect
+● ""Archfiend Usurpation""'s 2nd bulleted (●) effect",Complex Rulings & Floodgates,Spell
+6184,Right Leg of the Forbidden One,"While I have 300 Life Points and ""Skull Invitation"" is face-up on the field, after finishing resolving the effect of ""Graceful Charity"", when I have ""Exodia the Forbidden One"", ""Left Leg of the Forbidden One"", ""Right Leg of the Forbidden One"", ""Right Arm of the Forbidden One"", and ""Left Arm of the Forbidden One"" in my hand, will I first take damage due to the effect of ""Skull Invitation"", or will I win due to the victory condition of ""Exodia the Forbidden One""?","If ""Exodia the Forbidden One"", etc. are in your hand after discarding cards due to the effect of ""Graceful Charity"", you will win the duel due to the victory condition of ""Exodia the Forbidden One"".
+In that case, the effect of ""Skull Invitation"" will not be applied.",Complex Rulings & Floodgates,Trap
+19,Forbidden Lance,"If ""Overlay Regen"" is activated, but ""Forbidden Lance"" is chained so that the targeted monster becomes unaffected by other Spell/Trap effects, how does ""Overlay Regen"" resolve? Also, if ""Overlay Regen"" is activated by targeting a monster that has already become unaffected by other Spell/Trap effects because of ""Forbidden Lance"", how does ""Overlay Regen"" resolve?","In either case, it is not possible to attach ""Overlay Regen"" to the targeted monster as an Xyz Material, as it is unaffected by Spell effects. As a result, ""Overlay Regen"" is sent to the Graveyard.",Complex Rulings & Floodgates,Xyz
+23227,Macro Cosmos,"I activate ""Super Polymerization"", or activate ""Fallen of Albaz""' effect, by discarding ""Despian Tragedy"" as a cost.
+
+After this activation resolves, can the effect of ""Despian Tragedy"", which activates if it is sent to the Graveyard or banished by a card effect, be activated?","In this case, ""Despian Tragedy"" was discarded as a cost to activate an effect. It was not sent to the Graveyard by a card effect. Thus, the effect of ""Despian Tragedy"" cannot be activated.
+
+The effect of ""Despian Tragedy"" is an effect that can be activated when ""Despian Tragedy"" is sent to the Graveyard by a card effect, or is banished.
+
+However, if the situation above occurs while the effect of ""Macro Cosmos"" is applying, the ""Despian Tragedy"" will not be discarded to the Graveyard. Instead, it will be banished by the effect of ""Macro Cosmos"". As ""Despian Tragedy"" was banished by a card effect, the effect of ""Despian Tragedy"" can then be activated.",Complex Rulings & Floodgates,Monster
+8821,Debris Dragon,"If a Gemini monster is Special Summoned by ""Debris Dragon""'s effect, its effects are negated. Will it still be treated as a Normal Monster? Additionally, can it be Normal Summoned again?","If a Gemini monster is Special Summoned by ""Debris Dragon""'s effect, its『This card is treated as a Normal Monster while face-up on the field or in the Graveyard.』effect is negated. (It is not treated as a Normal Monster.) As it is not treated as a Normal Monster, it also cannot be Normal Summoned again.",Complex Rulings & Floodgates,Gemini
+23349,Cyber Angel Benten,"I activate the effect of ""Cyber Angel Natasha"" in my Graveyard, banishing ""Cyber Angel Benten"" as a cost from my Graveyard and targeting my opponent's ""Swordsoul Supreme Sovereign - Chengying"". When resolving this effect, I gain control of ""Swordsoul Supreme Sovereign - Chengying"".
+
+In this case, can I activate the effect of ""Swordsoul Supreme Sovereign - Chengying"" to banish 1 card each from my opponent's field and Graveyard since ""Cyber Angel Benten"" has been banished?","In the given situation, you can activate the effect of that ""Swordsoul Supreme Sovereign - Chengying"" you gained control of due the effect of ""Cyber Angel Natasha"".",Complex Rulings & Floodgates,Ritual
+9124,Solemn Judgment,"I attempt to Flip Summon a Special Summon Monster, such as ""Chaos Sorcerer"". This Flip Summon is negated by ""Solemn Judgment"", causing ""Chaos Sorcerer"" to be destroyed and sent to the Graveyard. Can I then Special Summon that ""Chaos Sorcerer"" by an effect such as that of ""Call of the Haunted""?","Yes, you can.
+
+Even if the Flip Summon of a properly summoned Special Summon Monster is negated, that monster will still be treated as having been properly summoned.",Complex Rulings & Floodgates,Monster
+22383,The Weather Painter Rainbow,"If my ""World Gears of Theurlogical Demiurgy"" that was Link Summoned using 3 monsters with different Types and Attributes as material is banished temporarily by another effect and returned to the Monster Zone, what happens with each of the following effects?
+
+Ⓐ: The『This Link Summoned card is unaffected by other monsters' effects』effect
+
+Ⓑ: The『During your Main Phase, if you control this card that was Link Summoned using 3 monsters that had 3 different Types and Attributes on the field: You can destroy all other cards on the field』effect","Ⓐ: It will be applied again.
+
+Ⓑ: It can no longer be activated.
+
+Even if a Link Summoned monster is banished temporarily and returned to the Monster Zone, it continues to be treated as a Link Summoned monster, but any effect(s) that is activated or applied with the requirement that a specific card(s) was used as material for the Link Summon will no longer be able to be activated or applied.
+
+Ⓐ: Examples of cards with an effect(s) that requires the card being Link Summoned include the following:
+● ""The Weather Painter Rainbow""
+● ""Gimmick Puppet Chimera Doll""
+● ""Infernoid Flood""
+● ""Traptrix Atypus""
+● ""Traptrix Cularia""
+● ""Traptrix Sera""
+● ""Dharc the Dark Charmer, Gloomy""
+● ""Lyna the Light Charmer, Lustrous""
+● ""Underworld Goddess of the Closed World""
+● ""D/D/D Abyss King Gilgamesh""
+● ""Booster Dragon""
+● ""Junk Connector""
+● ""Qliphort Genius""
+● ""Cyberse Wicckid""
+● ""Neo Super Quantal Mech King Blaster Magna""
+● ""Arcana Extra Joker""
+● ""Lib the World Key Blademaster""
+● ""Ferocious Flame Swordsman""
+
+Ⓑ: Examples of cards with an effect(s) that requires a specific card(s) to be used as material for the Link Summon include the following. (If they're banished temporarily that effect can no longer be activated or applied.):
+● ""Zerrziel, Ruler of the Evil Eyed""
+● ""Borrelcode Dragon""
+● ""Black Luster Soldier - Soldier of Chaos""
+● ""Backup Supervisor""
+● ""Cyberse Enchanter""
+● ""Salamangreat Sunlight Wolf""
+● ""Salamangreat Heatleo""
+
+This is the same for the following cards' effects, if they target a monster that was banished temporarily and returned to the field, that effect will no longer be applied:
+● ""Salamangreat Claw""
+● ""Will of the Salamangreat""
+● ""Salamangreat Gift""
+● ""Salamangreat Circle""
+● ""Salamangreat Rage""
+● ""Marincess Battle Ocean""",Complex Rulings & Floodgates,Monster
+7,Rush Recklessly,"If ""Rush Recklessly"" is activated targeting a ""Naturia Beetle"" (ATK 400/DEF 1800), what happens to its ATK and DEF?","If the effect of ""Rush Recklessly"" is applied to ""Naturia Beetle"", it gains 700 ATK, so its ATK/DEF will be 1100/1800. The effect of ""Naturia Beetle"" that switches its original ATK and DEF will be applied afterward, and its ATK and DEF are recalculated.
+
+In this case, after the original ATK and DEF of ""Naturia Beetle"" are switched (to 1800/400), and the ATK increase from ""Rush Recklessly"" is then reapplied. Therefore, ""Naturia Beetle"" will have 2500 ATK and 400 DEF.",Complex Rulings & Floodgates,Monster
+12982,Code Talker,"Can I target a monster with 0 ATK with the effect of ""Code Radiator"" that was sent from the hand or field to the Graveyard as material for the Link Summon of a """"Code Talker"""" monster?","You can target a monster with 0 ATK, as long as the『its effects are negated』effect can be applied to that monster.
+
+The『its effects are negated』effect can primarily be applied to Effect Monsters whose effects are not yet negated. Additionally, Gemini monsters which are treated as Normal Monsters by their『This card is treated as a Normal Monster while face-up on the field or in the Graveyard.』effect are also monsters to which the『its effects are negated』effect can be applied.",Complex Rulings & Floodgates,Monster
+19254,The Grand Jupiter,"Can the first effect of ""The Grand Jupiter"" be activated by targeting a Monster Token?","""The Grand Jupiter"" can be equipped with a Token by its own effect. For example, if a Photon Token that was Special Summoned by the effect of ""Photon Sanctuary"" is equipped to ""The Grand Jupiter"", the second effect of ""The Grand Jupiter"" will increase its own ATK by the original ATK of the equipped Photon Token, which is 2000. Furthermore, the equipped Photon Token cannot be targeted when activating the last effect of ""The Grand Jupiter"" that Special Summons one of the monsters equipped to it.",Complex Rulings & Floodgates,Normal/Token
+12691,Harpie Lady,"While ""Harpies' Hunting Ground"" is face-up on the field, ""Skill Drain"" is activated, and ""Call of the Haunted"" resolves in response, Special Summoning ""Harpie Queen"".
+
+In this case, the name of the Special Summoned ""Harpie Queen"" stops being """"Harpie Lady"""" before the effect of ""Harpies' Hunting Ground"" could be activated. Can that effect still be activated?","In the given situation, the effect of ""Harpies' Hunting Ground"" can be activated after the chain resolves.
+
+At the time that ""Harpie Queen"" is Special Summoned by the effect of ""Call of the Haunted"", its name is treated as """"Harpie Lady"""". Afterwards, when the effect of ""Skill Drain"" applies, the effect of ""Harpie Queen"" is negated, and its name returns to being """"Harpie Queen"""".
+
+Regardless, a """"Harpie Lady"""" or """"Harpie Lady Sisters"""" has been Special Summoned to the field, and the effect of ""Harpies' Hunting Ground"" must be activated.",Complex Rulings & Floodgates,Monster|Spell|Trap
+206,Dark Hole,"If multiple cards are sent to the Graveyard at the same time by an effect like ""Dark Hole"" or ""Painful Choice"", in which order are those cards sent to the Graveyard?","In that case, the order in which those cards are sent to the Graveyard is chosen by the owner of the cards that are sent to the Graveyard.
+
+Furthermore, since the card whose effect is being resolved is sent to the Graveyard last, providing ""Dark Hole"" was activated, after all the monsters destroyed by that effect are sent to the Graveyard in any order (chosen by their owner), ""Dark Hole"" is sent to the Graveyard after it has resolved.
+
+Similarly, after sending the 4 cards not chosen by the opponent to the Graveyard in any order, ""Painful Choice"" is sent to the Graveyard after it has resolved.",Complex Rulings & Floodgates,Basic Rules
+12358,Divine Wrath,"I control a ""Gladiator Beast Bestiari"", to which ""Forbidden Lance"" has been applied. I then activate the effect of this ""Gladiator Beast Bestiari"" by returning it to the Deck at the end of the Battle Phase. If ""Divine Wrath"" resolves in response, will the effect of ""Gladiator Beast Bestiari"" be negated?","If the effect of ""Gladiator Beast Bestiari"" is activated during the End Step by returning it to the Deck as a cost, the effect of ""Forbidden Lance"" will no longer be applying to it at that point.
+Therefore, the effect of ""Gladiator Beast Bestiari"" will be negated by the effect of ""Divine Wrath"".
+Note that, while ""Divine Wrath"" negates the activation of ""Gladiator Beast Bestiari""'s effect, the ""Gladiator Beast Bestiari"" itself, which was returned to the Deck, is not destroyed.",Complex Rulings & Floodgates,Chain
+23330,Exosister Arment,"There is a face-down Defense Position monster on my opponent's field, which was at one point Special Summoned from the Graveyard.
+
+In this situation, can I activate ""Exosister Arment"" during my turn, which is only possible if my opponent controls a monster which was Special Summoned from the Graveyard?","If a monster is Special Summoned from the Graveyard, that monster is treated as a monster that was Special Summoned from the Graveyard, regardless of its battle position. This includes a monster which was Special Summoned from the Graveyard in face-down Defense Position, and then flipped face-up.
+
+If any such monster is on your opponent's field, you can activate ""Exosister Arment"" during your turn. (As that monster is treated as having been Special Summoned from the Graveyard.)
+
+However, if a face-up monster on the field which was Special Summoned from the Graveyard is flipped face-down, that monster is no longer treated as a monster that was Special Summoned from the Graveyard.",Complex Rulings & Floodgates,Spell
+9463,Ally of Justice Catastor,"If ""Gundari"" and ""Ally of Justice Catastor"" battle, how are the effects' resolutions performed?","Since the effects of ""Gundari"" and ""Ally of Justice Catastor"" that activate when battling have the same activation timing, they will be added to the Chain and the resolutions will be performed backwards.
+● If ""Gundari"" attacks a face-up ""Ally of Justice Catastor""…
+The effect of ""Gundari"" will be activated as Chain Link 1, the effect of ""Ally of Justice Catastor"" will be activated as Chain Link 2, and due to the resolution being backwards, ""Gundari"" will be destroyed, and ""Ally of Justice Catastor"" will be returned to the Extra Deck.
+● If ""Ally of Justice Catastor"" attacks a face-up ""Gundari""…
+The effect of ""Ally of Justice Catastor"" will be activated as Chain Link 1, the effect of ""Gundari"" will be activated as Chain Link 2, first ""Gundari"" will be returned to the hand and ""Ally of Justice Catastor"" will be returned to the Extra Deck.
+Since ""Gundari"" is no longer on the field, the effect of ""Ally of Justice Catastor"" isn't applied.",Complex Rulings & Floodgates,Chain|Damage Step|Spirit|Synchro
+23185,The Arrival Cyberse @Ignister,"Can the effect of ""Danmari @Ignister"" be activated when ""The Arrival Cyberse @Ignister"" declares an attack?","Yes, it can.
+
+In that case, ""Danmari @Ignister"" is Special Summoned from the hand, but because ""The Arrival Cyberse @Ignister"" is unaffected by other card effects, its attack is not negated.",Complex Rulings & Floodgates,Monster
+16941,Solemn Warning,"The Xyz Summon of ""Beatrice, Lady of the Eternal"" that I performed was negated by the opponent's ""Solemn Warning"", and it was destroyed and sent to the Graveyard.
+
+In that case, can the『If this card in your possession is destroyed by your opponent's card and sent to your Graveyard: You can Special Summon 1 ""Burning Abyss"" monster from your Extra Deck, ignoring its Summoning conditions』effect of ""Beatrice, Lady of the Eternal"" be activated?","Even in the situation of the question, ""Beatrice, Lady of the Eternal"" was destroyed by the opponent and sent to the Graveyard, so the『Special Summon 1 ""Burning Abyss"" monster from your Extra Deck, ignoring its Summoning conditions』effect can be activated.",Complex Rulings & Floodgates,Xyz
+12911,Number 48: Shadow Lich,"When ""Number 48: Shadow Lich"" is targeted for an attack by an opponent's monster, its effect to Special Summon 1 Phantom Token was activated.
+
+In this case, is a replay triggered?
+
+Also, can ""Number 48: Shadow Lich"" be targeted for an attack again?","In that case, since a new monster appeared on the side of the field of the player who was attacked (in this scenario, the Phantom Token), a replay is triggered.
+
+And in that case, since the effect of ""Number 48: Shadow Lich"" that prevents it from being targeted for an Attack while you control a Phantom Token is applied, a different monster must be chosen for an attack target. (If the only other monsters are Phantom Tokens, then a Phantom Token must be targeted for an attack).",Complex Rulings & Floodgates,Normal/Token|Replay|Xyz
+15877,Toon World,"If the effect of ""Forbidden Lance"" is applied to a monster equipped with ""Comic Hand"", what will happen to its effects?","If the effect of ""Forbidden Lance"" is applied to a monster equipped with ""Comic Hand"", since the monster becomes unaffected by Spell effects, control of it returns to the opponent. (After the effect of ""Forbidden Lance"" stops applying, you will gain control of that monster again.)
+
+Similarly, the effect of ""Comic Hand"" that treats the equipped monster as a Toon monster and allows it to attack directly is not applied. (But after the effect of ""Forbidden Lance"" stops applying, these effects will apply again.)
+
+Note that if ""Toon World"" is not face-up on your side of the field, since the effect of ""Comic Hand"" that destroys itself is not one that affects the equipped monster, it will be applied normally in this case.",Complex Rulings & Floodgates,Spell
+8182,Asura Priest,"If the attack of ""Asura Priest"" that targeted ""Krebons"" is negated by an effect such as that of ""Krebons"", can ""Asura Priest"" attack ""Krebons"" again after that?","Monsters such as ""Asura Priest"" can attaack all monsters once each, but if the attack is negated by an effect such as that of ""Krebons"", the same monster cannot be attacked again.
+Also, if there's a monster other than ""Krebons"", after the attack is negated, the other monster can be attacked.",PSCT & Logic (Cost vs. Effect),Spirit
+12530,Magic Cylinder,"I declare a second attack using the effect of ""Black Luster Soldier - Envoy of the Beginning"", but that attack is negated by ""Magic Cylinder"". Can I activate ""Double or Nothing!"" and make a third attack?
+
+Also, if this is possible, does that ""Black Luster Soldier - Envoy of the Beginning"" immediately have to attack again, or can I attack with another monster first, and then later attack with ""Black Luster Soldier - Envoy of the Beginning""?","If ""Black Luster Soldier - Envoy of the Beginning"" makes a second attack due to its own effect, and that attack is negated by ""Magic Cylinder"", you can activate ""Double or Nothing!"" in order to make a third attack.
+
+Furthermore, if the ""Double or Nothing!"" resolves in this scenario, the third attack does not need to be declared immediately. You can attack with other monsters first, and then later attack with ""Black Luster Soldier - Envoy of the Beginning"".",PSCT & Logic (Cost vs. Effect),Monster|Spell
+24196,Escalation of the Monarchs,"""Guilt-Gripping Morganite""'s『you can Normal Summon Level 5 or higher monsters without Tributing』effect is applying. Later, I then resolve ""True Draco Heritage""'s『Tribute Summon 1 ""True Draco"" or ""True King"" monster face-up』effect. Can I Normal Summon a ""True Draco"" monster without Tributing?","No, you cannot.
+
+A Tribute Summon is a Normal Summon or Set that is performed by Tributing a monster. Therefore, if you resolve ""True Draco Heritage""'s effect to Tribute Summon, you must Tribute a monster for the Normal Summon.
+
+(This is also true for ""Lahamu the Messenger of Sacred Scripture""'s effect that allows you to Normal Summon without Tributing instead of ""Guilt-Gripping Morganite""'s effect.)
+
+This also applies to:
+Monster effects:
+● ""Clown Clan Whiteface""'s ②nd effect
+● ""Proof of Pruflas""'s ②nd effect
+● ""Capricious Darklord""'s ①st effect
+● ""Tessera the Primal Squire""'s ②nd effect
+● ""Ehther the Heavenly Monarch""'s ②nd effect
+Spell effects:
+● ""Spell Card ""Soul Exchange""""'s ①st effect
+● ""Disciples of the True Dracophoenix""'s ②nd effect
+● ""Soul Crossing""'s effect
+Trap effects:
+● ""True King's Return""'s ②nd effect
+● ""True Draco Apocalypse""'s ②nd effect
+● ""Escalation of the Monarchs""'s effect",PSCT & Logic (Cost vs. Effect),Basic Rules|Spell
+23511,Masked HERO Anki,"I have previously resolved ""Pot of Prosperity"" this turn, causing all damage my opponent takes to be halved. If I now attack directly with ""Masked HERO Anki"" (ATK 2800) using to its own effect, which also causes battle damage inflicted to my opponent to be halved. Do these two effects stack?","The effect of ""Pot of Prosperity"" that halves damage taken by the opponent, and the effect of ""Masked HERO Anki"" that halves battle damage inflicted to the opponent, do not stack. (Damage will not be halved again.)
+
+Therefore, regardless of whether your opponent controls a monster or not, if your ""Masked HERO Anki"" attacks directly in the situation given above, your opponent will take half the battle damage they would usually take, i.e., 1400 damage.",PSCT & Logic (Cost vs. Effect),Monster|Spell
+9143,"Kamion, the Timelord","At the end of the Battle Phase, I activate the effect of ""Kamion, the Timelord"" that returns a card on my opponent's field to the Deck. When it resolves, can I return a Fusion, Synchro, Xyz, or Link Monster?","When resolving the effect of ""Kamion, the Timelord"", you can choose a Fusion, Synchro, Xyz, or Link Monster to return to the Deck. In that case, the monster returns to the Extra Deck instead of the Main Deck, but your opponent still takes 500 damage.",PSCT & Logic (Cost vs. Effect),Monster
+11638,Level Limit - Area B,"While the effect of ""Level Limit - Area B"" is applying, if ""Horus the Black Flame Dragon LV6"" is Tribute Summoned in face-up Attack Position, will it be changed to Defense Position? Also, if ""Horus the Black Flame Dragon LV6"" is face-up on the field, and ""Level Limit - Area B"" is activated, will ""Horus the Black Flame Dragon LV6"" be changed to Defense Position?","In both scenarios, since ""Horus the Black Flame Dragon LV6"" is unaffected by Spell effects while it is face-up on the field, it is not changed to Defense Position by the effect of ""Level Limit - Area B"".",PSCT & Logic (Cost vs. Effect),Monster|Spell
+8787,Lonefire Blossom,"Is it possible to activate ""Lonefire Blossom""'s effect that Special Summons a Plant from the Deck while ""Gozen Match"" is applying its effect?
+Additionally, if the effect can be activated, can a ""Tytannial, Princess of Camellias"" (WIND) be Summoned by the effect of the ""Lonefire Blossom"" (FIRE)?","As long as there are any FIRE Plant monsters in your Deck, you can still activate the effect of ""Lonefire Blossom"" even if ""Gozen Match"" is applying. (The effect of ""Lonefire Blossom"" cannot be activated if there are no FIRE Plant monsters in your Deck.)
+
+Furthermore, if you Tributed ""Lonefire Blossom"" itself to activate its effect, and there are now no face-up monsters on your field, you can then proceed to Special Summon the WIND ""Tytannial, Princess of Camellias"" from your Deck.",PSCT & Logic (Cost vs. Effect),Monster|Trap
+8663,Gladiator Beast Alexander,"At the end of the Battle Phase, if I control a ""Gladiator Beast Alexander"" that attacked while ""Ancient Forest"" applies, in which order will the effect of that ""Gladiator Beast Alexander"" that Special Summons 1 ""Gladiator Beast"" monster from my Deck, and the effect of ""Ancient Forest"" that destroys all monsters that attacked this Battle Phase be activated?","When activating the effects of ""Ancient Forest"" and ""Gladiator Beast Alexander"" respectively, the effect that activates first can be the one of the card controlled by the turn player.
+Also, if the same player controls both ""Ancient Forest"" and ""Gladiator Beast Alexander"", the effects can be activated in any order decided by that player.",PSCT & Logic (Cost vs. Effect),Monster|Spell
+11857,Necrovalley,"While the effect of ""Necrovalley"" is applying, can I activate the effect of ""Red-Eyes Darkness Metal Dragon""?","Even while the effect of ""Necrovalley"" is applying, you can activate the effect of ""Red-Eyes Darkness Metal Dragon"". When it resolves, you will Special Summon 1 Dragon-Type monster from your hand. (Note that if the only Dragon-Type monsters you can Special Summon are in your Graveyard, the effect of ""Red-Eyes Darkness Metal Dragon"" is not applied.)",PSCT & Logic (Cost vs. Effect),Monster|Spell
+13005,Book of Eclipse,"I Normal or Special Summon an ""Ancient Gear Wyvern"" and activate its effect. During this turn, can my opponent activate ""Book of Eclipse""?","The effect of ""Ancient Gear Wyvern"" prevents you from Setting cards for the rest of the turn. The effect of ""Book of Eclipse"" changes all face-up monsters on the field to face-down Defense Position, which is considered Setting monsters, but in this scenario it is not the player who activated the effect of ""Ancient Gear Wyvern"" that is Setting any cards, so your opponent can activate ""Book of Eclipse"". (All face-up monsters on the field, including ""Ancient Gear Wyvern"", are changed to face-down Defense Position.)",PSCT & Logic (Cost vs. Effect),Monster|Spell
+9669,Degenerate Circuit,"Can I activate ""Genex Ally Birdman""'s effect by returning a ""Plaguespreader Zombie"", or a ""Battle Fader"", that was Special Summoned by its own effect?
+Furthermore, if ""Degenerate Circuit"" is applying its effect, and any card that would return from the field to the hand will be banished instead, can I activate the effect of either ""Genex Ally Birdman"" or ""Mist Valley Shaman""?","If ""Plaguespreader Zombie"" or ""Battle Fader"" was Special Summoned by its own effect, it will be banished when it leaves the field. Therefore, you cannot activate ""Genex Ally Birdman""'s effect by returning such a ""Plaguespreader Zombie"" or ""Battle Fader"" to the hand.
+Furthermore, if ""Degenerate Circuit"" is applying its effect, cards on the field cannot successfully be returned to the hand. Therefore, ""Genex Ally Birdman"" or ""Mist Valley Shaman"" cannot activate their effects.",PSCT & Logic (Cost vs. Effect),Monster|Spell
+210,Exarion Universe,"An ""Exarion Universe"" the opponent controls is equipped by a ""Big Bang Shot"" you activated.
+
+In this case, if that ""Exarion Universe"" attacks a Defense Position monster, and activates its effect that allows it to inflict Piercing battle damage, which player takes the battle damage from that battle?","In the proposed scenario, if the ATK of the opponent's ""Exarion Universe"" is higher than the DEF of the Defense Position monster targeted for the attack, you take battle damage as a result of its effect.
+
+Also, at the same time, since that ""Exarion Universe"" is equipped with a ""Big Bang Shot"" you activated, the opponent takes the Piercing battle damage by its effect.
+
+As a result, both players take battle damage simultaneously.",PSCT & Logic (Cost vs. Effect),Monster|Trap
+23973,Karma Cut,"The ①st effect of ""Floowandereeze & Robina"" is activated. In response, ""Cynet Conflict"" resolves, the activation of ""Floowandereeze & Robina""'s effect is negated, and ""Floowandereeze & Robina"" is banished.
+
+In this scenario, will the『your opponent cannot activate cards, or effects of cards, with the same original name as that card that was banished by this effect, until the end of the next turn』effect of ""Cynet Conflict"" apply?","No, it does not apply.
+
+That ""Floowandereeze & Robina"" was banished by its own『if this face-up card would leave the field, banish it instead』effect and not by the effect of ""Cynet Conflict"", so the『your opponent cannot activate cards, or effects of cards, with the same original name as that card that was banished by this effect』effect will not apply.
+
+Similarly, if a card is banished while resolving any of the following, but it is instead banished by a『banish it when it leaves the field』effect, it is not treated as having been banished by the original effect, and does not count for the number of cards banished by that effect.
+
+Monster effects:
+● ""Chaos End Ruler - Ruler of the Beginning and the End""'s ③rd effect
+● ""Flowering Etoile the Melodious Magnificat""'s ①st effect
+● ""Dreaming Nemleria""'s monster effect
+● ""Worldsea Dragon Zealantis""'s ②nd effect
+● ""Topologic Trisbaena""'s effect
+● ""Arkbrave Dragon""'s ①st effect
+● ""Evilswarm Thunderbird""'s effect
+● ""Galaxy-Eyes Photon Dragon""'s effect
+● ""Synchro Soldier""'s effect
+● ""Uni-Horned Familiar""'s effect
+● ""Drill Warrior""'s effect
+● ""Junk Archer""'s effect
+
+Spell effects:
+● ""Interdimensional Matter Forwarder""'s ①st, ②nd, and ③rd effects
+● ""Land Flipping""'s effect
+● ""Appliancer Conversion""'s ①st effect
+● ""Cynet Backdoor""'s effect
+● ""Future Visions""'s effect
+
+Trap effects:
+● ""Speedroid Clear Wing Wonder""'s ②nd effect
+● ""Centur-Ion Phalanx""'s ①st effect
+● ""Blooming of the Darkest Rose""'s ②nd effect
+● ""Cross-Dimensional Duel""'s ①st effect
+● ""Ninjitsu Art of Shadow Sealing""'s effect
+● ""Memory of an Adversary""'s effect
+● ""Past Image""'s effect
+● ""Forgotten Temple of the Deep""'s effect
+● ""Karma Cut""'s effect",PSCT & Logic (Cost vs. Effect),Trap
+12777,Acid Trap Hole,"If a face-down Defense Position ""Traptrix Atrax"" is flipped face-up by ""Acid Trap Hole"", will it be destroyed?","If a face-down ""Traptrix Atrax"" is flipped face-up while resolving ""Acid Trap Hole"", ""Traptrix Atrax""' effect that makes it unaffected by the effect of ""Hole"" Trap Cards is not yet applied while that chain link is resolving.
+
+Therefore, the 1000 DEF ""Traptrix Atrax"" is destroyed by ""Acid Trap Hole"".",PSCT & Logic (Cost vs. Effect),Monster|Trap
+20675,Sabersaurus,"I activate the second effect of ""Souleating Oviraptor"", targeting a ""Sabersaurus"" on my field. When the effect resolves, if I apply the effect of ""Lost World"" and destroy a Dinosaur-Type monster in my hand or Deck instead, what happens?","In this situation, the targeted ""Sabersaurus"" is not destroyed by the effect of ""Souleating Oviraptor"", due to the effect of ""Lost World"", and remains on the field. In this case, you cannot Special Summon a Dinosaur-Type monster from your Graveyard.",PSCT & Logic (Cost vs. Effect),Monster|Spell
+12441,Time Wizard,"I Special Summon ""Dark Magician"" using ""Swing of Memories"", then equip it with ""Gagagashield"". Will this ""Dark Magician"" be destroyed during the End Phase?
+
+Also, if I Special Summon ""Time Wizard"" using ""Limit Reverse"", equip it with ""Gagagashield"", then change it to Defense Position, will it be destroyed by the effect of ""Limit Reverse""?","If you equip ""Gagagashield"" to the ""Dark Magician"" that was Special Summoned by ""Swing of Memories"", the effect of ""Gagagashield"" will apply when ""Swing of Memories""' effect resolves during the End Phase. Therefore, ""Dark Magician"" will not be destroyed, and will remain on the field.
+
+Furthermore, if you Special Summon ""Time Wizard"" using ""Limit Reverse"" and equip it with ""Gagagashield"", then change it to Defense Position, the effect of ""Limit Reverse"" will still be applied. ""Limit Reverse"" itself will be destroyed as a result, but the effect of ""Gagagashield"" will be applied, and ""Time Wizard"" will not be destroyed, and will remain on the field.",PSCT & Logic (Cost vs. Effect),Spell|Trap
+8006,Remove Brainwashing,"If a monster, equipped with ""Vengeful Servant"", changes control while ""Remove Brainwashing"" is applying, control will immediately return to its original owner. Which player will take damage due to ""Vengeful Servant""'s effect?","The effect of ""Remove Brainwashing"" immediately returns control of the monster to the original owner.
+
+Therefore, the effect of ""Vengeful Servant"" is activated only once, while the original owner controls the monster. When that effect resolves, the monster's original owner, who currently controls the equipped monster, will take damage.",PSCT & Logic (Cost vs. Effect),Spell|Trap
+19616,Rank-Up-Magic Barian's Force,"I activate the ①st effect of ""K9-X Forced Release"" that Special Summons from my Extra Deck,『1 ""K9"" Xyz Monster with a different name, by using that monster』I control as material.
+
+When resolving the effect, what happens if the target monster is no longer face-up in my Monster Zone because another effect has been applied to it, for example, if the target monster is now in face-down Defense Position or control has been switched to my opponent?","The effect resolves doing nothing.
+When the effect of ""K9-X Forced Release"" resolves, only if the targeted monster is still face-up in your Monster Zone, you will『Special Summon from your Extra Deck, 1 ""K9"" Xyz Monster with a different name, by using that monster you control as material』.
+
+The same applies for the following effects.
+Spell Cards:
+● ""K9-LC Release Restraint""'s ①st effect
+● ""Rank-Up-Magic Argent Chaos Force""'s effect
+● ""Rank-Up-Magic Astral Force""'s effect
+● ""Rank-Up-Magic Zexal Force""'s effect
+● ""Rank-Up-Magic Skip Force""'s effect
+● ""Rank-Up-Magic Raptor's Force""'s effect
+● ""Rank-Up-Magic Revolution Force""'s effect
+● ""Rank-Up-Magic Raid Force""'s effect
+● ""Rank-Up-Magic Quick Chaos""'s effect
+● ""Rank-Up-Magic Numeron Force""'s effect
+● ""Rank-Up-Magic Barian's Force""'s effect
+● ""Rank-Up-Magic Limited Barian's Force""'s effect
+● ""Rank-Up-Magic Cipher Ascension""'s effect
+● ""The Phantom Knights' Rank-Up-Magic Launch""'s effect
+● ""Hyper Rank-Up-Magic Utopiforce""'s effect
+● ""Exosister Arment""'s effect
+● ""Bug Signal""'s effect
+● ""Hieratic Seal of Creation""'s ①st effect
+● ""Constellar Tellarknights""'s ②nd effect
+● ""Super Quantal Mech Ship Magnacarrier""'s ①st effect
+● ""Noble Arms - Excaliburn""'s ②nd effect
+● ""Outrigger Extension""'s ②nd effect
+● ""Shining Draw""'s 2nd『●』effect
+● ""Bujin Hiruko""'s Pendulum effect
+
+Trap Cards:
+● ""Eternal Galaxy""
+● ""Purrelyeap!?""'s ①st effect
+● ""Goblin Biker Grand Pileup""'s ①st effect
+● ""Xyz Revive Splash""'s ②nd effect
+● ""Resurgam Xyz""'s ①st effect
+● ""Ghostrick Renovation""'s ②nd effect
+● ""Zenmaiday""'s ②nd effect",PSCT & Logic (Cost vs. Effect),Spell|Trap
+12005,The Emperor's Holiday,"I control ""Inzektor Dragonfly"" which is equipped with ""Inzektor Hornet"". If I activate the effect of ""Inzektor Hornet"" by sending it to the Graveyard, will that effect be negated by the effect of ""The Emperor's Holiday""?","The effect that is activated is treated as the effect of an Equip Card on the field. Thus, it will be negated by the effect of ""The Emperor's Holiday"".",PSCT & Logic (Cost vs. Effect),Monster|Trap
+6270,King of the Swamp,"When performing the『by shuffling 1 each of """"Cyberdark Horn"""", """"Cyberdark Edge"""", and """"Cyberdark Keel"""" from your hand, field, and/or Graveyard, into the Deck, as Fusion Material』resolution due to the effect of ""Cyberdark Impact!"", can a card such as ""King of the Swamp"" be returned to the Deck instead of ""Cyberdark Horn"", etc.?","When resolving that effect of ""Cyberdark Impact!"", monsters whose names are each 1 of """"Cyberdark Horn"""", """"Cyberdark Edge"""", and """"Cyberdark Keel"""" must be returned to the Deck.
+
+Therefore, ""King of the Swamp"" cannot be returned to the Deck by the effect of ""Cyberdark Impact!"".",PSCT & Logic (Cost vs. Effect),Monster|Spell
+11172,Gladiator Beast Laquari,"If a monster to which ""Infected Mail"" has been applied, and ""Gladiator Beast Laquari"", both battle, what happens to the respective effects at the End of the Battle Phase?","If the same player controls both ""Gladiator Beast Laquari"" and the monster to which ""Infected Mail"" has been applied, they can resolve these effects in either order.
+Otherwise, the turn player will resolve their effect first.",PSCT & Logic (Cost vs. Effect),Monster|Spell
+13277,Gren Maju Da Eiza,"""Gren Maju Da Eiza"" is face-up in my Monster Zone, and I have 10 cards banished, so its ATK and DEF are each 4000. If the effect of ""Forbidden Droplet"" is applied to ""Gren Maju Da Eiza"", what does its ATK and DEF become?","In this scenario, since the ATK of a monster to which the effect of ""Forbidden Droplet"" is applied to becomes half its current ATK, the ATK of ""Gren Maju Da Eiza"" becomes half of 4000, which is 2000. Furthermore, since the effects of ""Gren Maju Da Eiza"" are negated by ""Forbidden Droplet"", its DEF becomes 0.",PSCT & Logic (Cost vs. Effect),Monster|Spell
+6231,Cyber Jar,"While ""Light of Intervention"" is applying, can monsters be Special Summoned in face-down Defense Position by ""Cyber Jar""'s effect?","While ""Light of Intervention"" is applying, monsters cannot be Normal Set, and cannot be Special Summoned in face-down Defense Position.
+Therefore, if a monster would be Special Summoned in face-down Defense Position by ""Cyber Jar""'s effect, it is Special Summoned in face-up Defense Position instead.",PSCT & Logic (Cost vs. Effect),Monster|Trap
+9795,Ring of Magnetism,"I control 2 ""Marauding Captain"", one of which is equipped with ""Ring of Magnetism"".
+
+In this scenario, can my opponent's monsters attack during their Battle Phase?","In this scenario, the effects of both ""Marauding Captain""s are applied, but the effect of ""Ring of Magnetism"" is also applying, so the attack target of the opponent's monsters will be the ""Marauding Captain"" that is equipped with ""Ring of Magnetism"".",PSCT & Logic (Cost vs. Effect),Monster|Spell
+13773,Enemy Controller,"During my Main Phase, ""Dark World Dealings"" is activated, so that my opponent draws a card and I place the fifth Spell Counter on my ""Silent Magician LV4"". During my opponent's next Standby Phase, if they activate ""Enemy Controller"" and take control of ""Silent Magician LV4"", can my opponent then activate its effect that Special Summons ""Silent Magician LV8"" from the hand or Deck?","The effect of ""Silent Magician LV4"" that Special Summons ""Silent Magician LV8"" can only be activated after its controller has place the fifth Spell Counter on it. Therefore, in this scenario, your opponent cannot activate the effect of ""Silent Magician LV4"" after they take control of it. When the effect of ""Enemy Controller"" stops applying and you regain control of ""Silent Magician LV4"", you can activate the effect of ""Silent Magician LV4"" during your next Standby Phase.",Basic Information Retrieval,Monster
+22106,Jet Warrior,"""F.A. Turbo Charger"" is face-up in my opponent's Monster Zone, and its effect that prevents me from targeting monsters with the effects of monsters that have a lower Level/Rank is applying. In this situation, if I Synchro Summon ""Jet Warrior"", can I activate its effect and target a Spell/Trap Card on my opponent's field?","""Jet Warrior"" has a lower Level than ""F.A. Turbo Charger"", so the effect of ""F.A. Turbo Charger"" is applied. In this scenario, when you activate the effect of ""Jet Warrior"", you can only target ""F.A. Turbo Charger"". (You cannot target a Spell/Trap Card.)",Basic Information Retrieval,Monster
+13177,Magic Reflector,"If the effects of a ""Mythical Beast Jackal King"" that has had Spell Counters placed on it are negated, what happens to those Spell Counters?","If the effects of ""Mythical Beast Jackal King"" are negated, ""Mythical Beast Jackal King"" will no longer be able to hold Spell Counters, so all Spell Counters already on it will also be removed.
+
+Furthermore, whether a given counter will be removed when a card's effects are negated depends on the type of counter in question. The following counters behave like Spell Counters, i.e., are removed when the card they are placed on has its effects negated. (The card names mentioned are examples of cards that might have this type of counter.)
+
+---
+● Generic ""counter"" (""Cauldron of the Old Man"", ""Firewall Dragon Darkfluid"", etc.; Exception: ""Magic Reflector"")
+● E.C. Counter (""Ekto Enneacraft - ""tromarIA"""", etc.)
+● Destiny Counter (""Number 88: Gimmick Puppet of Leo"")
+● Athlete Counter (""F.A. Shining Star GT"")
+● Summon Conter (""Summon Over"")
+● Symphonic Counter (""Symph Amplifire"")
+● Yosen Counter (""Yosen Training Grounds"")
+● Kaiju Counter (""Kyoutou Waterfront"")
+● Balloon Counter (""Wonder Balloons"")
+● Junk Counter (""Machine Assembly Line"")
+● Rising Sun Counter (""Rising Sun Slash"")
+● Crystal Counter (""Crystal Tree"")
+● Black Feather Counter (""Black-Winged Assault Dragon"")
+● Piece Counter (""Shining Piecephilia"")
+● Payback Counter (""Double Payback"")
+● Spellstone Counter (""Powersink Stone"")
+● Psychic Counter (""Brain Research Lab"")
+● Nut Counter (""Rodenut"")
+● Dragonic Counter (""Dragonic Guard"")
+● Clock Counter (""Clock Tower Prison"")
+● D Counter (""D - Formation"")
+● Defect Counter (""Defect Compiler"")
+● Flower Counter (""The World Tree"")
+● Gate Counter (""Spacegate"")
+● GG Counter (""G Golem Crystal Heart"")
+● Shine Counter (""Realm of Light"")
+● Plant Counter (""Seed Cannon"")
+● Thunder Counter (""Raigeki Bottle"")
+● Pumpkin Counter (""Pumprincess the Princess of Ghosts"")
+● Greed Counter (""Shard of Greed"")
+● Hi-Five the Sky Counter (""Onomatopia"")
+● Morph Counter (""Gadget Box"")
+● Shark Counter (""Shark Caesar"")
+● Karakuri Counter (""Karakuri Anatomy"")
+● Ocean Counter (""The Dragon Dwelling in the Deep"")
+● You Got It Boss! Counter (""Orbital 7"")
+● ""Otoshidamashi"" Counter (""Otoshidamashi"")
+● Performage Counter (""Performage Hat Tricker"")
+● Fire Fist Counter (""Fire Fortress atop Liang Peak"")
+● Emperor's Key Counter (""The Deal of Destiny"")
+● Genex Counter (""Genex Ally Bellflame"")
+● Bushido Counter (""Gateway of the Six"")
+● Borrel Counter (""Borreload Savage Dragon"")
+● Chaos Counter (""Chaos Zone"")
+● Phantasm Counter (""Chaos Core"")
+● Worm Counter (""Worm Gulse"")
+● Chronicle Counter (""Spell Chronicle"")
+● Resonance Counter (""Angello Vaalmonica"" and ""Dimonno Vaalmonica"")
+● Success Counter (""Summer Schoolwork Successful!"")
+● Dish Counter (""Okiku's Dish Count"")
+● C Counter (""Apocavities"")",Basic Information Retrieval,Monster
+24236,Embodiment of Apophis,"After activating and Special Summoning an ""Apophis the Serpent"" Set in the center Spell & Trap Zone, can an ""Apophis"" Trap be Set in the center Spell & Trap Zone with the『then you can Set 1 ""Apophis"" Trap from your Deck, except """"Apophis the Serpent"""". It can be activated this turn』resolution?","It can be Set.
+(Even if you activate ""Apophis the Serpent"" in a situation where there are 5 cards in your Spell & Trap Zone, you can Set 1 ""Apophis"" Trap with the『then…』resolution.)
+
+After activation, if you activate and Special Summon a Trap that is Special Summoned in the Monster Zone, the Spell & Trap Zone that it was originally Set in becomes usable.
+
+For example, this is the same if any of the following cards are Special Summoned from the Spell & Trap Zone, the Spell & Trap Zone that was used becomes usable again, so other cards can be activated or Set in it:
+● ""Embodiment of Apophis""
+● ""Apophis the Swamp Deity""
+● ""Eldlixir of the Glorious Golden Land""
+● ""Conquistador of the Golden Land""
+● ""Guardian of the Golden Land""
+● ""Huaquero of the Golden Land""
+● ""Tiki Peace""
+● ""Tiki Curse""
+● ""Tiki Soul""
+● ""Argostars - Lightning Tydeu""
+● ""Argostars - Slayer Eteo""
+● ""Argostars - Swift Capane""
+● ""Zoma the Spirit""
+● ""Zoma the Earthbound Spirit""
+● ""Kuebiko""
+● ""Silhouhatte Trick""
+● ""Angel Statue - Azurune""
+● ""Statue of Anguish Pattern""
+● ""Shaddoll Core""
+● ""Time Thief Power Reserve""
+● ""You're Finished""
+● ""Prey of the Jirai Gumo""
+● ""Mimesis Elephant""
+● ""Powerhold the Moving Battery""
+● ""Dwimmered Glimmer""
+● ""Crusadia Krawler""
+● ""Altergeist Emulatelf""
+● ""Space Dragster""
+● ""Metalhold the Moving Blockade""
+● ""Krystal Avatar""
+● ""Dimension Reflector""
+● ""Metamorphortress""
+● ""King Scarlet""
+● ""Swamp Mirrorer""
+● ""Quantum Cat""
+● ""Abyss Stungray""
+● ""The First Monarch""
+● ""The Door of Destiny""
+● ""Shapesister""
+● ""Copy Knight""
+● ""Machine King - 3000 B.C.""
+● ""Cyber Shadow Gardna""
+● ""Stronghold the Moving Fortress""
+● ""Metal Reflect Slime""
+● ""The Phantom Knights of Shade Brigandine""
+● ""The Phantom Knights of Tomb Shield""
+● ""The Phantom Knights of Wrong Magnetring""
+● ""The Phantom Knights of Lost Vambrace""
+● ""Qlife's End""
+● ""Traptrix Holeutea""",Basic Information Retrieval,Basic Rules|Monster
+9499,Predaplant Flytrap,"Can I activate ""Predaplast"" targeting Level 1 monsters or Xyz Monsters on my opponent's field?","You can activate ""Predaplast"" targeting Level 1 monsters or Xyz Monsters on your opponent's field. Even then, a Predator Counter is placed on each of those monsters normally. (In that case, since they are not Level 2 or higher monsters, the part of the effect that makes them Level 1 while they have the Predator Counter on them is not applied.)",Basic Information Retrieval,Monster
+12881,Vampire Lord,"Can the effect of ""Vampire Grace"" be activated when ""Goka, the Pyre of Malice"" is Special Summoned?
+
+Also, can the effect of ""Vampire Grace"" be activated when ""Vampire Genesis"" is Special Summoned?","Since the Special Summon of ""Goka, the Pyre of Malice"" from the hand while you control a FIRE Monster is considered to be a Monster Effect that doesn't start a chain, when ""Goka, the Pyre of Malice"" is Special Summoned successfully, the effect of ""Vampire Grace"" in the Graveyard can be activated.
+
+Also, Special Summoning ""Vampire Genesis"" by Banishing a ""Vampire Lord"" you control is not considered to be a Monster Effect. Since ""Vampire Genesis"" is a Special Summon Monster, this becomes a Special Summoning procedure.
+
+Therefore, when ""Vampire Genesis"" is Special Summoned successfully, the effect of ""Vampire Grace"" in the Graveyard cannot be activated.",Basic Information Retrieval,Monster
+24216,Dimensional Barrier,"Ⓐ: I currently cannot Special Summon Pendulum Monsters due to ""Dimensional Barrier""'s effect. Can I activate ""Enneacraft - Atori.MAR""'s『Special Summon 1 monster from your hand in face-down Defense Position』effect?
+
+Ⓑ: Instead, I activate ""Enneacraft - Atori.MAR""'s effect, but by the time it resolves, due to ""Dimensional Barrier""'s effect, I cannot Special Summon Pendulum Monsters. What happens?","Ⓐ: If you have a non-Pendulum Monster in your hand, you can activate the effect, and Special Summon a non-Pendulum Monster in face-down Defense Position when it resolves. (Your opponent cannot look at the monster that you Special Summoned.) If you have no non-Pendulum Monsters in your hand, you cannot activate the effect.
+
+Ⓑ: If you have a non-Pendulum Monster in your hand by the time the activation resolves, you will Special Summon such a monster in face-down Defense Position. (Your opponent cannot look at the monster that you Special Summoned.) If you have no non-Pendulum Monsters in your hand at this time, you do not Special Summon. (You cannot Special Summon a Pendulum Monster in face-down Defense Position.)
+
+This also applies to:
+● ""Deftero Enneacraft - ""alazoneIA""""'s ①st Monster Effect
+● ""Ekto Enneacraft - ""tromarIA""""'s ①st Monster Effect
+● ""Enato Enneacraft - ""oknirIA""""'s ①st Monster Effect
+● ""Proto Enneacraft - ""orgIA""""'s ①st Monster Effect
+● ""Enneacraft - Aiza.LEON""'s ①st Monster Effect
+● ""Enneacraft - Asta.PIXEA""'s ①st Monster Effect
+● ""Enneacraft - Archa.TAIL""'s ①st Monster Effect",Basic Information Retrieval,Monster
+23274,Speedroid Ultra Hound,"Can I target a ""Speedroid"" Synchro Monster in the Graveyard with the effect of ""Speedroid Ultra Hound"" that can be activated by banishing itself from the Graveyard?","Yes, you can also target a Synchro Monster in the Graveyard with the effect of ""Speedroid Ultra Hound"" that can be activated by banishing itself from the Graveyard.
+
+In that case, when resolving the effect, the targeted Synchro Monsters is returned to the Extra Deck, and 1 ""Speedroid"" Synchro Monster with the same Level but a different name is Special Summoned from your Extra Deck normally, having its effects negated.",Basic Information Retrieval,Monster
+17432,Dinomist Rex,"The Monster Effect of ""Dinomist Rex"" was activated and the effect that returns a card to the Deck was chosen.
+
+At this time, if a card on the field would be chosen, which player chooses the card to be returned to the Deck?","If a card on the field would be chosen, the player who activated the Monster Effect of ""Dinomist Rex"" chooses the card.",Basic Information Retrieval,Monster
+16173,Umi,"I have ""Umi"" in my Field Zone, and both ""The Legendary Fisherman"" and ""Guardian Kay'est"" on my side of the field. If my opponent's monsters attack, what can they attack?","Your opponent can attack you directly.
+(They cannot attack either ""The Legendary Fisherman"" or ""Guardian Kay'est"".)
+
+Similarly, if all the monsters in your Monster Zone are the following, your opponent can attack directly:
+● ""Sunavalon Dryas""
+● ""Sunavalon Dryades""
+● ""Sunavalon Daphne""
+● ""Sunavalon Melias""
+● ""Sunavalon Dryatrentiay""
+● ""Sunavalon Dryanome""
+● A monster Special Summoned by ""Dark Sanctuary""'s ①st effect
+● A monster to which ""Realm of Danger!""'s ②nd effect has been applied
+● A monster to which ""Altergeist Camouflage""'s ①st effect has been applied",Basic Information Retrieval,Monster
+23564,Freed the Matchless General,"I have activated the ①st effect of ""Black Luster Soldier - Legendary Swordsman"" before my Normal Draw. If this activation, or its effect, is now negated, do I perform my Normal Draw?
+
+Furthermore, if I am unable to add a Ritual Spell to my hand when the effect of ""Black Luster Soldier - Legendary Swordsman"" resolves, such as because ""Mistake"" is activated in response, or because there are no Ritual Spells in my Deck, can I still perform my Normal Draw?","If the activation of ""Black Luster Soldier - Legendary Swordsman""'s effect, or the effect of that activation, is negated, you will perform your Normal Draw as usual. Otherwise, even if you cannot add a Ritual Spell to your hand (e.g., because ""Mistake"" is applying at resolution, or because you have no Ritual Spells in your Deck), you will still be unable to perform your Normal Draw afterwards.
+
+This effect of ""Black Luster Soldier - Legendary Swordsman"" prevents you from performing your Normal Draw this turn. Therefore, if this effect's activation, or its effect, is negated, you will perform your Normal Draw as usual. If ""Mistake"" is applying, or there are no Ritual Spells in your Deck, etc., the effect still applies, and will prevent you from performing your Normal Draw.
+
+This also applies to the following cards. (If the effect's activation, or that activation's effect, are negated, you will perform your Normal Draw. If neither is negated, even if the effect cannot be fully resolved for some reason, you still do not perform your Normal Draw.)
+""Skull Flame"", ""Flying Saucer Muusik'i"", ""Freed the Matchless General"", ""Dark General Freed"", ""Spirit Burner"", ""Magical Blast"", ""Meteor Flare"", ""Iron Core of Koa'ki Meiru"".",Basic Information Retrieval,Monster
+19063,Celtic Guardian,"""Hero Mask"" was activated targeting ""Celtic Guard of Noble Arms"", and due to the『Target 1 face-up monster you control; send 1 ""Elemental HERO"" monster from your Deck to the Graveyard, and if you do, that target's name becomes the sent monster's name, until the End Phase』effect it's treated as ""Elemental HERO Neos"" until the End Phase.
+
+In that case, is ""Celtic Guard of Noble Arms"" still treated as a ""Celtic Guard"" card?
+(TL note: In the OCG, the name of ""Celtic Guard of Noble Arms"" does not contain ""Celtic Guard"". It has card text stipulating that it is treated as a ""Celtic Guard"" card, like how Dragon Spirit of White does for being a ""Blue-Eyes"" card.)","It's treated only as ""Elemental HERO Neos"".
+
+In this case, its name isn't treated as ""Celtic Guard of Noble Arms"", and it's not treated as a ""Celtic Guard"" card.
+(When the effect of ""Hero Mask"" stops applying, it will return to its original state.)
+
+In addition, this is the same if the effects of ""Number 69: Heraldry Crest - Dark Matter Demolition"", ""Flash of Heraldry"", ""Fairy Tail - Matchlille"", ""Weaver of Fairy Tail Tales"", or ""Fairy Tail Ball"", are applied to ""Celtic Guard of Noble Arms"". While its name is ""Unknown"" or ""Fairy Prince"" respectively, it is no longer treated as a ""Celtic Guard"" card.
+
+As examples, this is the same if the ①st effect of ""Hero Mask"", ""Number 69: Heraldry Crest - Dark Matter Demolition"", or ""Flash of Heraldry"" is applied to any of the following cards:
+● ""Commander Souza, Swordmaster""
+● ""Tellarknight Cygnian""
+● ""Onomatokage""
+● ""Morgana the Witch of Eyes""
+● ""Heart of Gaia""
+● ""Heart of the Blue-Eyes""
+● ""Diabellstar Vengeance""
+● ""Diabellze the White Witch""
+● ""Queen Azamina""
+● ""Lacrima the Crimson Tears""
+● ""Abyssrhine, the Atlantean Spirit""
+● ""Dragon Spirit of White""
+● ""Combined Maneuver - Engage Zero!""
+● ""Pillar of the Future - Cyanos""
+● ""Surgical Striker - S.P.E.C.T.R.A.""
+● ""Guiding Quem, the Virtuous""
+● ""Verre, the Maid of Endymion""
+● ""Genni, the Maid of Endymion""
+● ""Miracle Ejector""
+● ""Power Patron Shadow Beast Nervedo""
+● ""Power Patron Shadow Machine Zegredo""
+● ""Power Patron Shadow Spirit Junordo""
+● ""Familiars of the Spiritual Arts""
+● ""Crimson Blade Dragon""
+● ""Fallen of the White Dragon""
+● ""Light Water Dragon""
+● ""Angry Burger""
+● ""Odd-Eyes Arcray Dragon""
+● ""Ultimate Leo Utopia Ray""
+● ""Ultimate Dragonic Utopia Ray""
+● ""Cyber Harpie Lady""
+● ""Harpie Lady 1""
+● ""Harpie Lady 2""
+● ""Harpie Lady 3""
+● ""Neo-Spacian Marine Dolphin""",Basic Information Retrieval,Monster
+23461,Lyrilusc - Recital Starling,"My opponent controls a ""Lyrilusc - Recital Starling"", which has gained the effect ""[this card's] control cannot switch"" due to ""Lyrilusc - Beryl Canary""'s effect.
+
+If my opponent now activates the effect of this ""Lyrilusc - Recital Starling"", can I activate the effect of ""Number F0: Utopic Draco Future"" in response? If yes, what happens when it resolves?","Even in this situation, the effect of ""Number F0: Utopic Draco Future"" can be activated.
+
+When it resolves, the activation of ""Lyrilusc - Recital Starling""'s effect will be negated, but control of it will not change. (""Lyrilusc - Recital Starling"" will remain on the opponent's field.)",Basic Information Retrieval,Monster
+9922,Soul Charge,"In a situation where my ""Topologic Bomber Dragon"" is in the Extra Monster Zone, a ""Honeybot"" and a ""RAM Clouder"" were Special Summoned from my Graveyard with the『Target any number of monsters in your Graveyard; Special Summon them, and if you do, you lose 1000 Life Points for each monster Special Summoned by this effect』effect of ""Soul Charge"".
+
+At this time, if ""RAM Clouder"" is Special Summoned in a Main Monster Zone that ""Honeybot"" points to, will the『If another monster is Special Summoned to a zone a Link Monster points to, while this monster is on the field: Destroy all monsters in the Main Monster Zones, also your other monsters cannot attack for the rest of this turn』effect of ""Topologic Bomber Dragon"" activate?","『A monster being Special Summoned to a zone a Link Monster points to』refers to a situation where a monster is Special Summoned to a zone a Link Monster that's already in the Monster Zone points to. Therefore, unless ""Honeybot"" or ""RAM Clouder"" is Special Summoned to a zone that ""Topologic Bomber Dragon"" or another Link Monster that's already in the Monster Zone, points to, the effect of ""Topologic Bomber Dragon"" won't activate.
+
+This is the same for the following cards, unless a monster is Special Summoned to a zone a Link Monster that's already in the Monster Zone points to, even if multiple monsters, including Link Monsters, are Special Summoned at the same time so that they would be linked, their effect cannot be activated:
+● ""Sea Archiver""
+● ""Tindangle Base Gardna""
+● ""Topologic Zeroboros""
+● ""Topologic Blaster Dragon""",Basic Information Retrieval,Monster
+10018,Masked Beast Des Gardius,"When activating the『equip this card to that target』effect of ""Graydle Alligator"", can I target a ""Botanical Lion"" whose『possession of this face-up card on the field cannot change』effect is applying?","Yes, you can.
+(You can activate ""Graydle Alligator""'s effect by targeting a monster, even if possession of it cannot change.)
+
+However, you will not be able to gain control of your opponent's ""Botanical Lion"". Regardless, ""Graydle Alligator""'s『when this card leaves the field, destroy the equipped monster』effect will still apply.
+
+Additionally, if ""Botanical Lion""'s effects become negated due to some other effect after ""Graydle Alligator"" has been equipped to it, ""Graydle Alligator""'s effect will cause you to gain control of ""Botanical Lion"".
+
+The same also applies to the following monsters, whose effects prevent their possession from being changed:
+● ""Heart of the Blue-Eyes""
+● ""Element Valkyrie""
+● ""Element Magician""
+● ""Element Soldier""
+● ""Horus the Black Flame Dragon LV4""
+● ""Mataza the Zapper""
+● ""Botanical Lion""
+● ""Blindly Loyal Goblin""
+● A Synchro Monster Summoned using ""Taotie, Shadow of the Yang Zing"" as material
+● An Xyz Monster Summoned using ""Lyrilusc - Beryl Canary"" as material
+
+This also applies to the following cards/effects, which can be activated by targeting a monster even if control of it cannot change:
+● ""Masked Beast Des Gardius""
+● ""Graydle Cobra""
+● ""Graydle Eagle""
+● ""Dark Necrofear""
+● ""Old Entity Hastorr""'s ①st effect
+● ""Heretical Phobos Covos""'s ①st effect
+● ""Sky Striker Mecha - Widow Anchor""
+● ""Mikanko Reflection Rondo""
+● ""Battle Teleportation""",Basic Information Retrieval,Monster
+15395,Performage Damage Juggler,"The『reduce the next battle damage you would take this turn to 0』effect of ""Performage Damage Juggler"" is already applying. In this situation, can I activate the『During the Battle Phase (Quick Effect): You can discard this card; reduce the next battle damage you would take this turn to 0.』effect of a second copy of ""Performage Damage Juggler""?","Even if that effect of ""Performage Damage Juggler"" has already resolved previously this turn, and even if the『reduce the next battle damage you would take this turn to 0』effect has not yet been applied to reduce the battle damage, that same effect of another ""Performage Damage Juggler"" can still be activated.
+
+However, if you then proceed to take battle damage, all of those『reduce the next battle damage you would take this turn to 0』are consumed. (You will not reduce multiple instances of battle damage to zero.)",Basic Information Retrieval,Monster
+23965,Infernoble Knight Emperor Charles,"An ""Infernoble Knight Emperor Charles"", which is treated as an Equip Spell, is face-up in my Spell & Trap Zone. If I now activate the ③rd effect of ""Noble Arms Museum"", will it prevent me from Special Summoning monsters for the rest of this turn, except Warrior monsters?","That effect of ""Noble Arms Museum"" will not be applied to you.
+
+Even if ""Infernoble Knight Emperor Charles"" is face-up in your Spell & Trap Zone, you still control a card named """"Infernoble Knight Emperor Charles"""".",Basic Information Retrieval,Monster
+15361,Anti-Spell Fragrance,"Can the Pendulum Effect of ""Wisdom-Eye Magician"" be activated while the effect of ""Anti-Spell Fragrance"", or of ""Diabellze the Original Sinkeeper"", is being applied?","Yes, you can. (If you do, it will resolve normally.)
+Placing a Pendulum Monster in a Pendulum Zone by the Pendulum Effect of ""Wisdom-Eye Magician"" is not treated as activating a Spell Card.",Basic Information Retrieval,Monster
+12313,Slifer the Sky Dragon,"While ""Final Attack Orders"" is applying its effect, my opponent Special Summons a monster in Defense Position. Due to ""Final Attack Orders""' effect, that monster is immediately changed to Attack Position. Will the effect of a ""Slifer the Sky Dragon"" on the field now activate?","Since your opponent Special Summoned the monster in Defense Position, ""Slifer the Sky Dragon""'s effect will not activate.",Basic Information Retrieval,Monster
+23436,Performapal Sword Fish,"While a face-up ""Performapal Sword Fish"" is in my Monster Zone, I perform multiple Special Summons during resolution of a Chain.
+
+In this case, how will ""Performapal Sword Fish""'s effect be activated after the Chain has resolved?","After the Chain has finished resolving, the effect of ""Performapal Sword Fish"" will activate exactly once, regardless of how many Special Summons you performed during that Chain.",Basic Information Retrieval,Monster
+24103,"Imsety, Glory of Horus","When I activate the ②nd or ③rd effect of ""Walls of the Imperial Tomb"" whose name is treated as ""King's Sarcophagus"", I chain the『You can shuffle 1 of your monsters that is banished or in your Graveyard into the Deck, or if that monster mentions that Field Spell, you can Special Summon it instead』effect of ""Krishnerd Witch"".
+
+Can I then Special Summon ""Horus the Black Flame Deity"" that mentions ""King's Sarcophagus"" in its text instead of return into the Deck?","No, you cannot. (Similarly, you also cannot Special Summon ""Imsety, Glory of Horus"", ""Qebehsenuef, Protection of Horus"", ""Duamutef, Blessing of Horus"", or ""Hapi, Guidance of Horus"".)
+
+""""King's Sarcophagus"""" is the name of a Continuous Spell, not the name of a Field Spell.",Basic Information Retrieval,Monster
+23473,Number F0: Utopic Future,"When resolving ""Numbers Eveil"", can I choose ""Number F0: Utopic Future"" or ""Number XX: Utopic Dark Infinity"" as either the ""Number"" monster to Special Summon from my Extra Deck, or as one of the ""Number"" monsters to attach to the Summoned monster?","""Number F0: Utopic Future"" can be chosen as one of the monsters to be attached. (Its Rank will be treated as 1.)
+
+""Number XX: Utopic Dark Infinity"" cannot be chosen when resolving the effect of ""Numbers Eveil"".",Basic Information Retrieval,Monster
+22837,Droll & Lock Bird,"The effect of my opponent's ""Droll & Lock Bird"" has previously resolved this turn, and I cannot add cards from my Deck to my hand as a result. Can I activate the ①st effect of a ""Danger! Bigfoot!"" in my hand?","Yes, you can.
+
+When it resolves, your opponent still chooses a random card from your hand, and you still discard that card. If the discarded card was not a """"Danger! Bigfoot!"""", you then also still Special Summon a ""Danger! Bigfoot!"" from your hand. The effect's resolution then ends without you drawing a card from your Deck.
+
+This also applies to the other ""Danger!"" monsters' effects: ""Danger! Nessie!"", ""Danger! Chupacabra!"", ""Danger!? Jackalope?"", ""Danger! Thunderbird!"", ""Danger! Dogman!"", ""Danger! Mothman!"", ""Danger!? Tsuchinoko?"", and ""Danger! Ogopogo!"".",Basic Information Retrieval,Monster
+19972,Ancient Gear Drill,"During the turn that I activated the effect of ""Ancient Gear Wyvern"", can I activate ""Ancient Gear Drill""?","The effect of ""Ancient Gear Wyvern"" prevents you from Setting cards for the rest of this turn. The effect of ""Ancient Gear Drill"" Sets a Spell Card directly from your Deck, so in this scenario you cannot activate it. (Also note that since you cannot Set cards, ""Ancient Gear Drill"" itself cannot be Set from your hand to the Spell & Trap Zone.)",Basic Information Retrieval,Monster
+192,My Body as a Shield,"When the opponent activates ""ZERO-MAX"", can I chain the ①st effect of ""Stardust Dragon""?
+
+Also, when the opponent activates ""ZERO-MAX"", can I chain the ②nd effect of ""Shooting Star Dragon"", the ②nd effect of ""Ruddy Rose Dragon"", the ②nd monster effect of ""Enneacraft - Archa.TAIL"", ""My Body as a Shield"", ""Musakani Magatama"", or ""Destruction Jammer""?","When ""ZERO-MAX"" is activated, if there's a monster face-up in the Monster Zone with less ATK than the monster selected as the target, the effect of ""ZERO-MAX"" would destroy a monster(s) on the field, so the effect of a card such as ""Stardust Dragon"" can be chained to it.
+
+Also, when ""ZERO-MAX"" is activated, if there isn't any monster face-up in the Monster Zone with less ATK than the monster selected as the target, the effect of ""ZERO-MAX"" would not destroy a monster(s) on the field, so the effect of a card such as ""Stardust Dragon"" cannot be chained to it.
+
+This is the same when the opponent activates ""Hero Blast"", as long as there's a monster face-up in your Monster Zone with ATK less than or equal to the monster selected as the target, you can activate the ①st effect of ""Stardust Dragon"", the ②nd effect of ""Shooting Star Dragon"", the ②nd effect of ""Ruddy Rose Dragon"", the ②nd monster effect of ""Enneacraft - Archa.TAIL"", ""My Body as a Shield"", ""Musakani Magatama"", or ""Destruction Jammer"".",Basic Information Retrieval,Monster
+16380,Malefic Truth Dragon,"In a situation where an opponent's monster that was Special Summoned from the Extra Deck has changed control with the ①st effect of ""D/D/D Headhunt"", if that monster is destroyed, can the『If a face-up ""D/D/D"" and/or ""Dark Contract"" card(s) you control, except """"D/D/D Zero Doom Queen Machinex"""", is destroyed while this card is face-up in your Extra Deck, even during the Damage Step: You can Special Summon this card, then you can destroy 1 card on the field』monster effect of ""D/D/D Zero Doom Queen Machinex"" be activated?","It can be activated.
+(This is because the card's name while on the field is referenced.)
+
+This is the same for the activation conditions of the following cards' effects:
+● ""Malefic Truth Dragon""
+● ""Performage Plushfire""",Basic Information Retrieval,Monster
+10495,Dark Core,"If your opponent's ""Bujingi Wolf"" that you currently control is banished with ""Dark Core"", which player can activate the effect of ""Bujin Arasuda"" in the hand to Special Summons itself?","In the given situation, you, the player that controlled ""Bujingi Wolf"" when it was banished, not your opponent, its original owner, can activate the effect of ""Bujin Arasuda"" in the hand to Special Summon itself.",Basic Information Retrieval,Monster
+6061,"Aiwass, the Magistus Spell Spirit","Due to its own effect ""Aiwass, the Magistus Spell Spirit"" is equipped to an opponent's monster and I took control of it.
+
+In that situation, if ""Aiwass, the Magistus Spell Spirit"" that is treated as an Equip Card is destroyed, who will be the controller of the previously equipped monster?","If ""Aiwass, the Magistus Spell Spirit"" that is treated as an Equip Card is destroyed, the control of the equipped monster will be returned immediately, and the effect that prevents that monster from activating its effects will no longer apply.",Basic Information Retrieval,Monster
+23515,Dark Magician of Chaos,"When performing the resolution of ""Evenly Matched"" activated by the opponent, I chose a ""Floowandereeze & Robina"" that's face-up on my field as the card to banish.
+
+In this case, what happens to ""Floowandereeze & Robina""?","It will be banished face-up.
+
+For example, this is the same for the effects of the following cards that cause a card to be『banished if it would leave the field』, if banished due to ""Evenly Matched"" being activated, it will be banished face-up:
+● ""Floowandereeze & Eglen""
+● ""Floowandereeze & Stri""
+● ""Floowandereeze & Toccan""
+● ""Exodius the Ultimate Forbidden Lord""
+● ""Dark Magician of Chaos""
+● ""Core of Chaos""
+● ""Shell of Chaos""
+● ""Cockadoodledoo""
+● ""Plaguespreader Zombie""
+● ""Battle Fader""
+● ""Quillbolt Hedgehog""
+● ""Snopios, Shade of the Ghoti""
+
+Similarly, if a card such as ""Floowandereeze & Robina"" would be banished face-down due to the effects of the following cards, it will be banished face-up:
+● ""Kashtira Fenrir""
+● ""Kashtira Arise-Heart""
+● ""PSY-Frame Overload""",Basic Information Retrieval,Monster
+9604,Zoma the Spirit,"If I Tribute ""Zoma the Spirit"", or a monster Token, for the Tribute Summon of ""The Tyrant Neptune"", what happens to ""The Tyrant Neptune""'s ATK/DEF?","""The Tyrant Neptune""'s ATK/DEF will be increased by the ATK/DEF printed on the Tributed monsters.
+Therefore, if ""Zoma the Spirit"" (ATK 1800/DEF 500) is Tributed, ""The Tyrant Neptune"" will gain 1800 ATK and 500 DEF.
+If a ""Rose Token"" (ATK 800/DEF 800) Special Summoned by ""Black Garden""'s effect is Tributed, ""The Tyrant Neptune"" will gain 800 ATK and 800 DEF.
+If an ""Emissary of Darkness Token"" (ATK ?/DEF ?) Special Summoned by ""Gorz the Emissary of Darkness""' effect is Tributed, ""The Tyrant Neptune"" will not gain any ATK or DEF.",Basic Information Retrieval,Normal/Token
