@@ -16,10 +16,8 @@ env/
 .idea/
 .vscode/
 
-# Local vector indexes (rebuild with preprocess_to_faiss.py)
-faiss_index/
-faiss_rules_index/
-faiss_cards_index/
+# FAISS indexes are tracked so Streamlit Community Cloud (and clones) can run RAG without a build step.
+# Rebuild locally with: python preprocess_to_faiss.py
 
 # Large local datasets (uncomment if card.json is huge and should stay local)
 # data/card.json

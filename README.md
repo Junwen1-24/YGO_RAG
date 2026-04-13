@@ -56,6 +56,8 @@ export OPENAI_API_KEY='sk-...'
 streamlit run app.py
 ```
 
+**Streamlit Community Cloud:** the repo must include the built directories `faiss_rules_index/`, `faiss_cards_index/`, and (recommended) `faiss_qa_index/` from `preprocess_to_faiss.py`—they are not generated on the server. Set `OPENAI_API_KEY` in the app’s **Secrets**. Visitors do not paste a key.
+
 The UI shows a disclaimer and the rule/card chunks retrieved for each answer; official events still follow KONAMI materials and the head judge.
 
 ## Disclaimer
