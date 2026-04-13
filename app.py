@@ -142,7 +142,10 @@ def main() -> None:
                 "N/A",
                 help="Could not load faiss_cards_index (missing folder or corrupt files). Run preprocess_to_faiss.py first.",
             )
-        st.caption("Set the OPENAI_API_KEY environment variable before asking questions.")
+        st.caption(
+            "Needs an OpenAI API key for embeddings + chat. On Streamlit Community Cloud, "
+            "add OPENAI_API_KEY once in App settings → Secrets; visitors do not enter a key."
+        )
 
     if "messages" not in st.session_state:
         st.session_state.messages = []
